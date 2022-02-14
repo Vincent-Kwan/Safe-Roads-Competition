@@ -1,0 +1,3 @@
+Question:
+1. Interaction terms b/w variables - for e.g. light and hour/time
+2. pilot models testing few predictors at a time.
