@@ -1,3 +1,7 @@
 Question:
 1. Interaction terms b/w variables - for e.g. light and hour/time
 2. pilot models testing few predictors at a time.
+
+Total - 16,860 
+Kids (0-19) - 1164
+There is a school in every neighbourhood.
