@@ -3,5 +3,6 @@ Question:
 2. pilot models testing few predictors at a time.
 
 Total - 16,860 
-Kids (0-19) - 1164
+Kids (0-19) - 1164 records
+0-14 - 398 records [254 passengers, 120 pedestrians(injury either fatal or major)]
 There is a school in every neighbourhood.
