@@ -1,0 +1,2 @@
+1. KSI dataset - IMPACTYPE - what does SMV other, and SMV Unattended Vehicle mean?
+2. KSI - In the Open Data Documentation, it has been said that ACCNUM is not unique, and may repeat year over year. But I have not found that to be the case.
