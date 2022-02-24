@@ -1,0 +1,533 @@
+,AvgAcceleration,PercentOfVehicles,IncidentsTotal,SeverityScore,LATITUDE,LONGITUDE,COUNT,INVAGE,WARDNUM,RDSFCOND,VISIBILITY,LIGHT,TRAFFCTL,VEHTYPE,DRIVACT,DRIVCOND,SPEEDING,AG_DRIV,ALCOHOL,DISABILITY,REDLIGHT
+0,0.4609620253164559,0.0563924050632911,47,0.04775,43.59,-79.54,4,Young Adult,3,Dry,Clear,Dark,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+1,0.4919753086419754,0.0723703703703703,8,0.022,43.59,-79.53,11,Super Senior,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+2,0.5503095238095238,0.0526428571428571,6,0.028,43.59,-79.51,6,Young Adult,3,Dry,Clear,Dark,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+3,0.4812285714285714,0.0431857142857142,1419,0.029125,43.6,-79.55,2,Young Adult,3,Dry,Clear,Dark,No Control,Small-size Vehicle,Improper Turn,Ability Impaired (Drugs/Alcohol),<Null>,<Null>,<Null>,<Null>,<Null>
+4,0.4636626506024097,0.0456385542168674,24,0.018,43.6,-79.54,10,Adult,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+5,0.4756265060240964,0.0799518072289156,3,0.027,43.6,-79.53,3,Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+6,0.6140416666666666,0.0406944444444444,10,0.156,43.6,-79.51,9,Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+7,0.6219499999999999,0.0716874999999999,109,0.1125,43.6,-79.5,11,Super Senior,3,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+8,0.6302800000000002,0.0593599999999999,35,0.0388,43.61,-79.56,5,Adult,3,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+9,0.6040152671755727,0.0484885496183205,1986,0.0181904761904761,43.61,-79.55,11,Young Adult,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+10,0.6651415094339624,0.0606509433962264,860,0.0155882352941176,43.61,-79.54,4,Super Senior,3,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+11,0.563978494623656,0.0576344086021505,2160,0.0321538461538461,43.61,-79.53,9,Young Adult,3,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+12,0.5512972972972975,0.0442162162162161,407,0.0086153846153846,43.61,-79.52,13,Young Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+13,0.5781558441558443,0.0367402597402597,24,0.006,43.61,-79.51,6,Super Senior,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+14,0.6134428571428574,0.0480857142857142,17,0.0156666666666666,43.61,-79.5,2,Adult,3,Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+15,0.5577799999999998,0.07848,3,0.006,43.61,-79.48,5,Young Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Unknown,<Null>,Yes,<Null>,<Null>,<Null>
+16,0.5735434782608696,0.0641521739130434,9,0.0045,43.62,-79.56,3,Young Adult,"2,3",Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+17,0.6916517857142858,0.0431874999999999,1207,0.012625,43.62,-79.55,6,Super Senior,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+18,0.7330128205128205,0.0871794871794871,3,0.014,43.62,-79.53,2,Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,Improper Turn,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+19,0.5373088235294119,0.0545147058823529,238,0.021625,43.62,-79.52,12,Young Adult,3,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+20,0.5028709677419356,0.0385698924731182,205,0.0075,43.62,-79.51,12,Super Senior,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+21,0.5381495327102803,0.0430654205607476,10,0.004,43.62,-79.5,15,Young Adult,3,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+22,0.5806883116883118,0.0430129870129869,65,0.002625,43.62,-79.49,8,Children,3,Dry,Clear,Artificial,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+23,0.8325384615384611,0.0634326923076923,1875,0.0206875,43.62,-79.48,10,Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+24,0.6290714285714286,0.0587142857142857,16,0.004,43.62,-79.47,5,Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+25,0.6300291262135922,0.0492427184466019,82,0.0028,43.63,-79.56,7,Young Adult,2,Dry,Clear,Daylight,No Control,Small-size Vehicle,Improper Turn,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+26,0.5001881188118811,0.0358316831683168,645,0.0174615384615384,43.63,-79.55,7,Super Senior,"2,3",Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+27,0.5890476190476189,0.0456190476190476,80,0.028875,43.63,-79.54,6,Adult,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+28,0.6068235294117648,0.076435294117647,10,0.0115,43.63,-79.53,5,Young Adult,3,Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+29,0.6776626506024098,0.0836506024096385,39,0.0405,43.63,-79.52,3,Young Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+30,0.6043684210526317,0.0640394736842105,3,0.006,43.63,-79.51,2,Young Adult,3,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+31,0.5102432432432433,0.057054054054054,3,0.005,43.63,-79.48,5,Adult,3,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+32,0.5796746987951806,0.0401686746987951,505,0.0093333333333333,43.63,-79.47,17,Super Senior,4,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+33,0.5663958333333334,0.0177916666666666,152,0.0095714285714285,43.63,-79.46,7,Young Adult,4,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+34,0.80475,0.026125,251,0.008625,43.63,-79.45,9,Adult,4,Dry,Clear,Dark,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+35,0.5226923076923076,0.0323846153846153,125,0.003625,43.63,-79.44,19,Adult,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+36,0.7475581395348836,0.0352325581395348,293,0.0115384615384615,43.63,-79.43,37,Super Senior,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+37,0.6212857142857142,0.0521428571428571,161,0.0061538461538461,43.63,-79.42,18,Super Senior,10,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+38,0.5410126582278482,0.0535949367088607,103,0.0035714285714285,43.63,-79.41,9,Adult,10,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+39,0.4774109589041095,0.0325753424657534,244,0.0097142857142857,43.63,-79.4,14,Super Senior,10,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+40,0.5079999999999999,0.0270925925925926,297,0.0083,43.63,-79.39,19,Adult,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+41,0.5513750000000001,0.037625,109,0.0113333333333333,43.63,-79.38,18,Adult,10,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+42,0.5809500000000001,0.0570499999999999,19,0.01925,43.64,-79.57,7,Adult,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+43,0.5791666666666665,0.0578947368421052,208,0.0047857142857142,43.64,-79.56,10,Adult,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+44,0.6140833333333334,0.0426666666666666,6,0.0205,43.64,-79.54,2,Young Adult,2,Dry,Clear,Dark,No Control,Small-size Vehicle,Improper Turn,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+45,0.5270312499999998,0.0517395833333333,33,0.0144,43.64,-79.53,6,Super Senior,3,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+46,0.5434666666666665,0.0507777777777777,77,0.0271666666666666,43.64,-79.52,15,Young Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+47,0.5037227722772276,0.0488019801980197,7,0.0065,43.64,-79.51,6,Young Adult,3,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+48,0.5116268656716418,0.0300597014925373,5,0.01,43.64,-79.5,4,Adult,3,Dry,Clear,Daylight,Stop/Yield Sign,Large-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+49,0.5110416666666666,0.0222916666666666,3,0.005,43.64,-79.49,4,Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+50,0.4774027777777777,0.0651527777777777,10,0.0065,43.64,-79.48,7,Young Adult,4,Dry,Clear,Daylight,Traffic Signal,Two Wheeler,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+51,0.5005072463768115,0.0604782608695652,5,0.011,43.64,-79.47,2,Senior,4,Dry,Clear,Daylight,Stop/Yield Sign,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+52,0.6587971014492754,0.0421739130434782,83,0.029,43.64,-79.45,10,Adult,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+53,0.749137254901961,0.0659705882352941,13,0.0053333333333333,43.64,-79.43,28,Super Senior,4,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+54,0.6459913043478257,0.0494434782608695,56,0.0186,43.64,-79.42,31,Adult,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+55,0.6654741379310345,0.0568706896551724,6,0.0055,43.64,-79.41,22,Adult,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+56,0.578504,0.0631359999999999,98,0.011090909090909,43.64,-79.4,46,Super Senior,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+57,0.53403825136612,0.0345956284153005,317,0.0125263157894736,43.64,-79.39,50,Super Senior,10,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+58,0.5958846153846149,0.0294551282051281,1042,0.014,43.64,-79.38,61,Super Senior,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+59,0.5894516129032259,0.0374451612903225,1028,0.0254230769230769,43.64,-79.37,61,Super Senior,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+60,0.7250106382978725,0.0493617021276595,789,0.0182857142857142,43.64,-79.36,19,Adult,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+61,0.74194,0.0705799999999999,518,0.0147,43.64,-79.35,10,Adult,10,Dry,Clear,Dark,No Control,Two Wheeler,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+62,0.8094468085106381,0.0700425531914893,24,0.0155,43.64,-79.34,5,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+63,0.5308333333333334,0.0507058823529411,148,0.0023333333333333,43.65,-79.56,8,Adult,2,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+64,0.5818253968253967,0.052031746031746,26,0.0195,43.65,-79.52,6,Young Adult,2,Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+65,0.3930365853658537,0.0448292682926829,7,0.0175,43.65,-79.51,7,Young Adult,3,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+66,0.5689278350515463,0.0390927835051546,59,0.0266666666666666,43.65,-79.48,9,Adult,4,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+67,0.5870000000000001,0.0397032967032966,6,0.0055,43.65,-79.47,13,Adult,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+68,0.5198888888888888,0.0457460317460317,8,0.0085,43.65,-79.46,6,Adult,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+69,0.6596949152542374,0.0472372881355932,99,0.017875,43.65,-79.45,26,Super Senior,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+70,0.7103043478260871,0.0559565217391304,28,0.0103333333333333,43.65,-79.44,24,Super Senior,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+71,0.5675729166666668,0.0566874999999999,10,0.0076666666666666,43.65,-79.43,35,Super Senior,9,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+72,0.625561797752809,0.0633595505617977,5,0.007,43.65,-79.42,22,Super Senior,"9,11",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+73,0.4632439024390244,0.0309878048780487,41,0.00975,43.65,-79.4,49,Adult,11,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+74,0.5734999999999999,0.0549015151515151,31,0.012,43.65,-79.39,54,Super Senior,11,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+75,0.518308176100629,0.0397735849056603,441,0.0126896551724137,43.65,-79.38,84,Super Senior,10,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+76,0.4814805194805195,0.0337337662337662,241,0.0105833333333333,43.65,-79.37,76,Super Senior,13,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+77,0.4930959999999998,0.0419359999999999,105,0.0096428571428571,43.65,-79.36,49,Adult,13,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+78,0.5823596491228071,0.0677105263157894,273,0.0109166666666666,43.65,-79.35,20,Adult,13,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+79,0.6891411764705886,0.0429529411764705,867,0.0222,43.65,-79.34,33,Super Senior,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+80,0.7567945205479452,0.0481780821917808,430,0.0281111111111111,43.65,-79.33,13,Adult,14,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+81,0.8810714285714285,0.0963809523809523,184,0.0816,43.65,-79.32,2,Super Senior,14,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+82,0.52075,0.04225,73,0.004,43.66,-79.59,3,Super Senior,1,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+83,0.420235294117647,0.0519411764705882,3,0.001,43.66,-79.58,8,Super Senior,2,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+84,0.4426666666666666,0.0339382716049382,157,0.0022222222222222,43.66,-79.57,3,Adult,2,Dry,Clear,Dark,No Control,Small-size Vehicle,Lost control,Ability Impaired (Drugs/Alcohol),<Null>,Yes,<Null>,<Null>,<Null>
+85,0.6466774193548387,0.0760322580645161,167,0.153,43.66,-79.51,6,Adult,2,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+86,0.6149800000000003,0.0612799999999999,169,0.045,43.66,-79.5,1,Super Senior,5,Wet,Rain,Daylight,Stop/Yield Sign,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+87,0.4890853658536583,0.0499999999999999,113,0.0236666666666666,43.66,-79.49,17,Adult,4,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+88,0.6368734177215191,0.0442405063291138,22,0.01725,43.66,-79.48,12,Adult,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+89,0.6607580645161293,0.047016129032258,3,0.009,43.66,-79.47,5,Adult,4,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+90,0.6592474226804124,0.0423092783505154,77,0.0143333333333333,43.66,-79.46,21,Adult,4,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+91,0.6879425287356322,0.0577011494252873,16,0.0067499999999999,43.66,-79.45,13,Super Senior,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+92,0.7444553571428575,0.0488303571428571,36,0.01,43.66,-79.44,17,Adult,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+93,0.6087733333333334,0.0352399999999999,56,0.0093333333333333,43.66,-79.43,24,Adult,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+94,0.6663565217391305,0.0412695652173912,7,0.0095,43.66,-79.42,16,Super Senior,"9,11",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+95,0.6885700000000005,0.05268,20,0.00775,43.66,-79.41,26,Super Senior,11,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+96,0.6120521739130438,0.0381565217391304,37,0.0205,43.66,-79.4,29,Adult,11,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+97,0.5319795918367347,0.0370306122448979,50,0.0103999999999999,43.66,-79.39,16,Adult,11,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+98,0.6514666666666666,0.0406181818181818,135,0.0208125,43.66,-79.38,38,Super Senior,13,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+99,0.6366716417910447,0.0612014925373134,89,0.0193,43.66,-79.37,43,Super Senior,13,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+100,0.6407701149425288,0.0566896551724137,16,0.018,43.66,-79.36,23,Super Senior,13,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+101,0.4596956521739128,0.0394130434782608,56,0.00575,43.66,-79.35,32,Super Senior,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+102,0.5391512605042015,0.0330504201680672,15,0.0073333333333333,43.66,-79.34,20,Super Senior,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+103,0.6675894736842104,0.0430631578947368,6,0.0045,43.66,-79.33,20,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+104,0.6204358974358973,0.0348846153846153,10,0.0075,43.66,-79.32,9,Super Senior,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+105,0.5680246913580247,0.0433456790123456,46,0.0214,43.66,-79.31,16,Super Senior,19,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+106,0.5885777777777779,0.0348222222222222,17,0.01,43.66,-79.3,8,Super Senior,19,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+107,0.5325454545454544,0.0226545454545454,80,0.006,43.67,-79.59,5,Young Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Disobeyed Traffic Control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+108,0.73596,0.01952,191,0.0034666666666666,43.67,-79.57,1,Adult,1,Dry,Clear,Dark,No Control,Small-size Vehicle,Other,Ability Impaired (Drugs/Alcohol),<Null>,<Null>,Yes,<Null>,<Null>
+109,0.4952318840579711,0.0461449275362318,61,0.0108,43.67,-79.56,10,Adult,"1,2",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+110,0.4968307692307692,0.0591076923076922,37,0.011,43.67,-79.55,10,Senior,2,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+111,0.3383432835820895,0.0392089552238805,3,0.003,43.67,-79.54,2,Young Adult,2,Dry,Clear,Artificial,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+112,0.5508571428571429,0.0587142857142857,88,0.0245714285714285,43.67,-79.49,16,Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+113,0.4898901098901099,0.0449999999999999,65,0.0168571428571428,43.67,-79.47,13,Super Senior,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+114,0.562576923076923,0.0649871794871794,83,0.0128571428571428,43.67,-79.46,24,Super Senior,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+115,0.7344186046511628,0.0584186046511627,26,0.0445,43.67,-79.45,21,Super Senior,9,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+116,0.602836956521739,0.046445652173913,119,0.0252222222222222,43.67,-79.44,28,Super Senior,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+117,0.71623595505618,0.043067415730337,21,0.00725,43.67,-79.43,17,Super Senior,9,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+118,0.5980581395348836,0.043313953488372,18,0.0124,43.67,-79.42,21,Adult,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+119,0.6463936170212767,0.0499361702127659,53,0.0091428571428571,43.67,-79.41,18,Young Adult,11,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+120,0.5941562499999998,0.0518645833333333,21,0.0076,43.67,-79.4,18,Adult,11,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+121,0.5349767441860466,0.0438062015503876,90,0.0138,43.67,-79.39,28,Super Senior,11,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+122,0.4838818897637795,0.0351968503937007,113,0.0107142857142857,43.67,-79.38,29,Adult,11,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+123,0.5233626373626374,0.0378681318681318,66,0.00825,43.67,-79.37,13,Senior,13,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+124,0.5546086956521739,0.0449855072463767,121,0.008625,43.67,-79.36,21,Young Adult,11,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+125,0.4317469879518072,0.0536385542168674,46,0.0073333333333333,43.67,-79.35,20,Super Senior,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+126,0.5583863636363637,0.049090909090909,26,0.0145999999999999,43.67,-79.34,21,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+127,0.581753086419753,0.0612716049382715,3,0.009,43.67,-79.32,13,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+128,0.53775,0.0509078947368421,15,0.013,43.67,-79.31,6,Adult,"14,19",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+129,0.5804395604395606,0.0586703296703296,25,0.015,43.67,-79.3,12,Adult,19,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+130,0.4135312499999999,0.0577812499999999,6,0.006,43.67,-79.29,6,Super Senior,19,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+131,0.5947865168539321,0.0651797752808988,35,0.004,43.68,-79.59,10,Adult,1,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+132,0.5963191489361702,0.0867127659574468,30,0.0195,43.68,-79.58,7,Super Senior,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+133,0.4664477611940297,0.0417611940298507,5,0.008,43.68,-79.55,5,Super Senior,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+134,0.3802,0.0530999999999999,9,0.01,43.68,-79.54,10,Adult,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+135,0.3887999999999999,0.0290999999999999,22,0.0104999999999999,43.68,-79.53,3,Super Senior,2,Wet,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+136,0.5340759493670884,0.0555189873417721,6,0.005,43.68,-79.52,9,Adult,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+137,0.563258064516129,0.0835268817204301,32,0.012,43.68,-79.51,13,Super Senior,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+138,0.5382888888888889,0.0537333333333333,37,0.0465,43.68,-79.5,4,Young Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,Improper Turn,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+139,0.5397460317460318,0.0563492063492063,79,0.02125,43.68,-79.49,15,Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+140,0.5037849462365592,0.0516559139784946,131,0.0275555555555555,43.68,-79.48,20,Super Senior,5,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+141,0.577855421686747,0.0807590361445783,45,0.0106,43.68,-79.47,29,Super Senior,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+142,0.518896551724138,0.0858735632183907,3,0.005,43.68,-79.46,18,Adult,"5,9",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+143,0.6854819277108432,0.0633614457831325,176,0.0682,43.68,-79.44,20,Super Senior,"9,12",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+144,0.6893300970873786,0.0433980582524271,31,0.0136666666666666,43.68,-79.42,15,Adult,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+145,0.5624112149532712,0.0642897196261682,54,0.0113333333333333,43.68,-79.41,13,Super Senior,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,Other,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+146,0.5437857142857142,0.0527023809523809,41,0.0135,43.68,-79.4,7,Adult,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+147,0.6150080645161292,0.0470887096774193,66,0.0118999999999999,43.68,-79.39,18,Super Senior,12,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+148,0.4782727272727273,0.039490909090909,205,0.0056363636363636,43.68,-79.36,14,Adult,14,Dry,Clear,Dark,No Control,Two Wheeler,Lost control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+149,0.5006197183098592,0.0661549295774647,4,0.009,43.68,-79.35,10,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+150,0.5020408163265306,0.0662142857142857,7,0.025,43.68,-79.34,14,Senior,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+151,0.4588541666666666,0.0639895833333333,3,0.004,43.68,-79.33,12,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+152,0.4119166666666667,0.0717916666666666,32,0.01025,43.68,-79.31,20,Adult,19,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+153,0.4476097560975611,0.076060975609756,53,0.02325,43.68,-79.3,19,Super Senior,19,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+154,0.5077088607594937,0.0630126582278481,22,0.098,43.68,-79.29,7,Super Senior,19,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+155,0.5119175257731958,0.0478659793814432,9,0.0083333333333333,43.68,-79.28,13,Young Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+156,0.5353389830508475,0.0403559322033898,9,0.0075,43.68,-79.27,8,Adult,20,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+157,0.5925438596491228,0.0731403508771929,79,0.01075,43.69,-79.59,1,Super Senior,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+158,0.6357032967032967,0.0556703296703296,27,0.00575,43.69,-79.58,4,Young Adult,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+159,0.5066625,0.0445374999999999,424,0.0215,43.69,-79.57,15,Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+160,0.5677211538461537,0.0352884615384615,1241,0.0075333333333333,43.69,-79.56,3,Young Adult,"1,2",Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+161,0.5175000000000002,0.0672727272727272,14,0.013,43.69,-79.55,9,Adult,"1,2",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+162,0.5089670329670332,0.0625494505494505,115,0.0292,43.69,-79.54,12,Super Senior,"1,2",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+163,0.5251447368421053,0.052578947368421,3,0.006,43.69,-79.53,7,Super Senior,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+164,0.5190285714285713,0.0630714285714285,4,0.009,43.69,-79.52,5,Adult,2,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+165,0.5341944444444443,0.0446944444444444,68,0.196,43.69,-79.51,7,Young Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+166,0.4421411764705883,0.0628235294117646,41,0.022,43.69,-79.5,13,Super Senior,5,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+167,0.5843181818181818,0.0589393939393939,32,0.0062,43.69,-79.48,11,Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+168,0.6096914893617023,0.059095744680851,102,0.0153846153846153,43.69,-79.47,14,Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+169,0.678701030927835,0.0788041237113401,107,0.027,43.69,-79.46,16,Super Senior,5,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+170,0.6518085106382978,0.0717765957446808,33,0.0106666666666666,43.69,-79.45,13,Young Adult,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+171,0.674105263157895,0.0545578947368421,141,0.0327142857142857,43.69,-79.44,24,Super Senior,"8,12",Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+172,0.6377123287671235,0.0745890410958904,145,0.017,43.69,-79.43,11,Super Senior,"8,12",Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+173,0.5262560975609756,0.0671951219512195,14,0.0155,43.69,-79.42,10,Super Senior,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+174,0.4731195652173912,0.0465760869565217,66,0.0206666666666666,43.69,-79.4,9,Super Senior,12,Dry,Clear,Daylight,Stop/Yield Sign,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+175,0.4607777777777776,0.0574814814814814,9,0.0106666666666666,43.69,-79.39,13,Adult,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+176,0.5378023255813956,0.0550581395348836,7,0.0055,43.69,-79.38,9,Adult,"12,15",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+177,0.4100158730158729,0.0584285714285714,9,0.008,43.69,-79.37,5,Young Adult,15,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,Yes,Yes,<Null>,<Null>,<Null>
+178,0.4168809523809524,0.0541428571428571,3,0.001,43.69,-79.36,3,Adult,"11,15",Dry,Clear,Dark,No Control,Small-size Vehicle,Speed too Fast For Condition,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+179,0.4638571428571428,0.0472448979591836,77,0.00725,43.69,-79.35,9,Adult,14,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+180,0.4222857142857141,0.0509897959183673,115,0.0068999999999999,43.69,-79.34,13,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+181,0.3952439024390245,0.0462317073170731,69,0.01525,43.69,-79.33,6,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+182,0.4566521739130434,0.0462499999999999,57,0.0186666666666666,43.69,-79.32,12,Adult,"14,19",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+183,0.5549791666666668,0.0593333333333333,3,0.004,43.69,-79.31,11,Adult,19,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+184,0.5049615384615384,0.0684743589743589,11,0.0113333333333333,43.69,-79.29,10,Adult,19,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+185,0.4505555555555556,0.0920555555555555,32,0.0543333333333333,43.69,-79.28,13,Senior,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+186,0.432435294117647,0.0624235294117646,82,0.0703333333333333,43.69,-79.27,7,Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+187,0.4827014925373134,0.0541194029850745,28,0.073,43.69,-79.26,6,Young Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+188,0.6102241379310347,0.0632931034482758,149,0.0675,43.7,-79.59,2,Adult,1,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+189,0.5915729166666668,0.0506979166666666,25,0.0685,43.7,-79.58,1,Adult,1,Dry,Clear,Daylight,No Control,Two Wheeler,Lost control,Normal,Yes,Yes,<Null>,<Null>,<Null>
+190,0.6242289156626504,0.0677951807228915,638,0.1355,43.7,-79.57,7,Young Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+191,0.5821176470588234,0.043635294117647,486,0.0223076923076923,43.7,-79.56,8,Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+192,0.5656410256410256,0.0508076923076922,1799,0.0085263157894736,43.7,-79.55,5,Adult,1,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+193,0.5156875000000001,0.0528125,125,0.1215,43.7,-79.54,1,Adult,1,Dry,Clear,Daylight,Stop/Yield Sign,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+194,0.6403023255813954,0.0492325581395348,74,0.032,43.7,-79.53,6,Young Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+195,0.5384259259259259,0.0684074074074074,7,0.018,43.7,-79.52,5,Super Senior,5,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+196,0.6487710843373493,0.0545060240963855,24,0.025,43.7,-79.51,11,Adult,5,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+197,0.5389047619047619,0.0736428571428571,85,0.0252857142857142,43.7,-79.5,19,Super Senior,5,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+198,0.5208208955223879,0.0630597014925373,113,0.0158571428571428,43.7,-79.49,11,Super Senior,5,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+199,0.6176249999999999,0.064486111111111,50,0.016,43.7,-79.48,6,Adult,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+200,0.6139325842696628,0.071943820224719,134,0.0415,43.7,-79.47,12,Super Senior,5,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+201,0.6381764705882352,0.0942647058823529,9,0.0203333333333333,43.7,-79.46,2,Children,8,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+202,0.6368315789473685,0.0836947368421052,192,0.0355714285714285,43.7,-79.45,10,Adult,8,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+203,0.5756477272727272,0.0725681818181818,7,0.028,43.7,-79.44,6,Young Adult,8,Wet,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+204,0.4842795698924731,0.0619139784946236,22,0.0078,43.7,-79.43,6,Super Senior,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+205,0.6207032967032967,0.0571208791208791,89,0.024,43.7,-79.42,23,Super Senior,"8,12",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+206,0.6297254901960784,0.0575588235294117,130,0.0394285714285714,43.7,-79.41,11,Adult,"8,12",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+207,0.5435052631578947,0.0628105263157894,68,0.0126666666666666,43.7,-79.4,14,Super Senior,"8,12",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+208,0.6442977099236641,0.0532519083969465,94,0.0144615384615384,43.7,-79.39,20,Super Senior,12,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+209,0.6984186046511627,0.0480930232558139,16,0.0085,43.7,-79.38,9,Super Senior,"12,15",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+210,0.5765612244897957,0.0508061224489795,11,0.0086666666666666,43.7,-79.37,7,Adult,15,Dry,Clear,Daylight,Pedestrian Crossover,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+211,0.453306818181818,0.0514204545454545,33,0.0214,43.7,-79.36,7,Young Adult,15,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+212,0.6951323529411764,0.0912941176470588,53,0.1304,43.7,-79.35,5,Adult,15,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+213,0.5023037974683544,0.0576835443037975,9,0.0056666666666666,43.7,-79.34,8,Adult,15,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+214,0.5386956521739129,0.0215217391304347,64,0.0032857142857142,43.7,-79.33,12,Adult,14,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+215,0.5555263157894738,0.0556315789473684,25,0.0064,43.7,-79.31,6,Senior,19,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+216,0.4047820512820511,0.0709743589743589,53,0.043,43.7,-79.29,10,Super Senior,19,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+217,0.7193125,0.0845124999999999,13,0.014,43.7,-79.26,8,Adult,20,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+218,0.5469333333333334,0.0412666666666666,164,0.0345,43.71,-79.6,7,Super Senior,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+219,0.6496627906976742,0.0491860465116278,25,0.0087999999999999,43.71,-79.59,7,Adult,1,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+220,0.6148536585365855,0.0674024390243902,231,0.1980999999999999,43.71,-79.58,7,Super Senior,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+221,0.5993048780487803,0.0972560975609756,44,0.0306666666666666,43.71,-79.57,2,Adult,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,Improper Turn,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+222,0.5301478260869567,0.0785478260869564,133,0.01,43.71,-79.56,6,Super Senior,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+223,0.6262531645569621,0.0526202531645569,1118,0.0336,43.71,-79.55,11,Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+224,0.529348484848485,0.0322272727272727,1078,0.0244999999999999,43.71,-79.54,1,Super Senior,7,Wet,Rain,Daylight,No Control,Other,<Null>,<Null>,Yes,Yes,Yes,<Null>,<Null>
+225,0.5330842105263157,0.0531157894736841,6029,0.0214285714285714,43.71,-79.53,13,Adult,7,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+226,0.6348167938931297,0.0456335877862595,2611,0.0220555555555555,43.71,-79.52,5,Super Senior,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+227,0.6393260869565216,0.0326521739130434,480,0.0047692307692307,43.71,-79.51,5,Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+228,0.5882293577981652,0.0533577981651376,677,0.008,43.71,-79.5,10,Adult,5,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+229,0.7482083333333334,0.0763472222222221,36,0.031,43.71,-79.48,1,Super Senior,5,Dry,Clear,Daylight,No Control,Small-size Vehicle,Lost control,Medical or Physical Disability,<Null>,<Null>,<Null>,Yes,<Null>
+230,0.7731166666666667,0.0636333333333333,35,0.009,43.71,-79.47,5,Young Adult,5,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+231,0.6436025641025639,0.0704358974358974,166,0.0376,43.71,-79.46,3,Adult,8,Dry,Clear,Daylight,Stop/Yield Sign,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+232,0.5687830188679243,0.0784150943396226,66,0.00975,43.71,-79.45,7,Super Senior,8,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+233,0.5608380952380952,0.0638761904761904,159,0.0183333333333333,43.71,-79.44,17,Adult,8,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+234,0.5132674418604651,0.0637093023255813,288,0.0278,43.71,-79.43,8,Young Adult,8,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+235,0.4950625,0.0569374999999999,10,0.011,43.71,-79.42,13,Adult,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+236,0.6389868421052632,0.0489210526315789,26,0.00875,43.71,-79.41,10,Super Senior,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+237,0.5432873563218392,0.0528505747126436,20,0.0155,43.71,-79.4,4,Young Adult,"8,15",Dry,Clear,Artificial,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+238,0.5757634408602151,0.042516129032258,9,0.0116666666666666,43.71,-79.39,12,Adult,"8,15",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+239,0.5332317073170733,0.0582073170731707,132,0.0214545454545454,43.71,-79.37,10,Super Senior,15,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+240,0.5053592233009708,0.0496407766990291,68,0.0321666666666666,43.71,-79.36,9,Young Adult,15,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+241,0.59646875,0.0557968749999999,146,0.0388,43.71,-79.35,9,Super Senior,15,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+242,0.5298974358974358,0.0641794871794871,78,0.0246666666666666,43.71,-79.33,13,Super Senior,16,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+243,0.6352115384615384,0.0511153846153846,9,0.0015,43.71,-79.32,7,Young Adult,16,Dry,Clear,Artificial,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+244,0.4898854166666667,0.0857604166666666,21,0.0349999999999999,43.71,-79.3,13,Adult,19,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+245,0.5219999999999999,0.0783373493975903,35,0.0203333333333333,43.71,-79.29,9,Young Adult,"19,20",Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+246,0.4995051546391753,0.086041237113402,7,0.015,43.71,-79.28,15,Adult,20,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+247,0.4320416666666666,0.0721527777777777,60,0.041,43.71,-79.27,4,Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+248,0.700337662337662,0.0538961038961038,21,0.0105,43.71,-79.26,11,Super Senior,20,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+249,0.6784745762711865,0.0813389830508474,12,0.0163333333333333,43.71,-79.25,9,Super Senior,20,Dry,Clear,Dark,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+250,0.6722794117647058,0.1334558823529411,9,0.0073333333333333,43.71,-79.24,8,Super Senior,20,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+251,0.5303823529411765,0.0231764705882353,3,0.001,43.72,-79.62,1,Adult,1,Dry,Clear,Daylight,Stop/Yield Sign,Small-size Vehicle,Disobeyed Traffic Control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+252,0.6633061224489795,0.0508979591836734,3,0.005,43.72,-79.61,4,Adult,1,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+253,0.4788536585365854,0.075560975609756,30,0.0186666666666666,43.72,-79.6,2,Young Adult,1,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+254,0.443779661016949,0.0366610169491525,6,0.016,43.72,-79.59,4,Super Senior,1,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+255,0.4596081081081079,0.0587162162162162,3,0.006,43.72,-79.56,3,Adult,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+256,0.5372549019607842,0.0439215686274509,25,0.0129999999999999,43.72,-79.55,7,Young Adult,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+257,0.5790666666666666,0.0857,4,0.007,43.72,-79.54,2,Young Adult,1,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+258,0.6326727272727272,0.0562545454545454,401,0.0465714285714285,43.72,-79.53,2,Adult,7,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+259,0.5695283018867927,0.0566603773584905,548,0.007,43.72,-79.52,1,Super Senior,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+260,0.6031058823529413,0.0596941176470588,8,0.0085,43.72,-79.51,3,Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+261,0.5718571428571431,0.0486020408163265,171,0.0573333333333333,43.72,-79.5,11,Super Senior,"7,6",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+262,0.5214545454545454,0.0528030303030302,3048,0.0263333333333333,43.72,-79.49,11,Young Adult,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+263,0.5104416666666668,0.0630333333333333,708,0.0097777777777777,43.72,-79.48,13,Super Senior,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+264,0.5558351648351646,0.0714285714285714,402,0.0035555555555555,43.72,-79.47,5,Adult,6,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+265,0.567080459770115,0.0521149425287356,213,0.0034999999999999,43.72,-79.46,1,Adult,8,Wet,Snow,Daylight,No Control,Small-size Vehicle,Speed too Fast For Condition,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+266,0.543191489361702,0.0602765957446808,1052,0.0123333333333333,43.72,-79.45,10,Adult,8,Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+267,0.6356666666666667,0.0578809523809523,183,0.0213333333333333,43.72,-79.44,2,Young Adult,8,Dry,Clear,Dark,No Control,Small-size Vehicle,Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+268,0.5436086956521738,0.063945652173913,68,0.0299999999999999,43.72,-79.43,11,Adult,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+269,0.514375,0.0602,16,0.0215,43.72,-79.42,3,Adult,8,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+270,0.4920537634408602,0.0557956989247311,68,0.0156,43.72,-79.41,17,Adult,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+271,0.5499999999999998,0.064204081632653,37,0.0126,43.72,-79.4,8,Young Adult,"8,15",Dry,Clear,Daylight,Traffic Signal,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+272,0.4950281690140845,0.0791830985915492,7,0.008,43.72,-79.39,4,Young Adult,15,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+273,0.4536419753086419,0.0542592592592592,117,0.048,43.72,-79.38,1,Senior,15,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+274,0.5818,0.0346,3,0.005,43.72,-79.35,1,Senior,15,Dry,Clear,Daylight,No Control,Small-size Vehicle,Other,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+275,0.5491492537313432,0.085865671641791,90,0.055,43.72,-79.34,6,Adult,16,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+276,0.4797078651685392,0.0418651685393258,143,0.0091,43.72,-79.33,15,Adult,16,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+277,0.6782037037037035,0.0688333333333333,431,0.054,43.72,-79.32,5,Adult,16,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+278,0.5151951219512197,0.0552317073170731,141,0.0199999999999999,43.72,-79.31,8,Super Senior,16,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+279,0.5470117647058822,0.074435294117647,165,0.0255555555555555,43.72,-79.3,26,Super Senior,"16,20",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+280,0.5333663366336634,0.077089108910891,128,0.0713,43.72,-79.29,12,Adult,"21,20",Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+281,0.590945054945055,0.082043956043956,198,0.0378333333333333,43.72,-79.28,9,Adult,20,Dry,Clear,Daylight,Traffic Signal,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+282,0.6106461538461536,0.0857230769230769,4,0.01,43.72,-79.27,4,Young Adult,20,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+283,0.8971076923076922,0.0967230769230769,62,0.223,43.72,-79.26,11,Young Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+284,0.7378915662650603,0.0902771084337349,37,0.02375,43.72,-79.25,8,Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+285,0.6000781250000002,0.09290625,8,0.028,43.72,-79.24,8,Young Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+286,0.5198064516129032,0.079021505376344,20,0.01125,43.72,-79.23,6,Adult,20,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+287,0.595820895522388,0.0375373134328358,153,0.014,43.73,-79.62,1,Super Senior,1,Ice,Freezing Rain,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+288,0.7536222222222223,0.0685,84,0.0244999999999999,43.73,-79.61,6,Children,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+289,0.5679142857142857,0.0606,123,0.0207142857142857,43.73,-79.6,21,Senior,1,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+290,0.5495061728395059,0.0542839506172839,16,0.013,43.73,-79.59,10,Super Senior,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+291,0.538078125,0.0683437499999999,42,0.0258333333333333,43.73,-79.56,12,Young Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+292,0.5292820512820512,0.0544230769230769,222,0.0215333333333333,43.73,-79.53,7,Adult,7,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,Lost control,Ability Impaired (Drugs/Alcohol),<Null>,Yes,<Null>,<Null>,<Null>
+293,0.495153846153846,0.0453230769230769,297,0.0182307692307692,43.73,-79.52,2,Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+294,0.69925,0.0663125,19,0.0293333333333333,43.73,-79.51,11,Adult,"7,6",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Lost control,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+295,0.5174358974358975,0.0871923076923076,165,0.04175,43.73,-79.48,7,Adult,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Unknown,Yes,Yes,<Null>,<Null>,<Null>
+296,0.5489722222222224,0.0490277777777777,236,0.0087692307692307,43.73,-79.45,8,Young Adult,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+297,0.6221388888888888,0.0427037037037036,468,0.0037272727272727,43.73,-79.44,9,Adult,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+298,0.547272,0.0505279999999999,2982,0.0205294117647058,43.73,-79.43,10,Adult,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+299,0.5894468085106385,0.0508510638297872,104,0.0155,43.73,-79.42,6,Senior,8,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+300,0.5875326086956523,0.0550108695652173,9,0.008,43.73,-79.41,3,Senior,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+301,0.52894,0.0543699999999999,53,0.0138333333333333,43.73,-79.4,4,Young Adult,"8,15",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+302,0.5028387096774194,0.0434838709677419,6,0.006,43.73,-79.38,4,Adult,15,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+303,0.5796093750000002,0.057078125,8,0.0095,43.73,-79.35,7,Super Senior,"15,16",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+304,0.4858207547169812,0.0697641509433961,110,0.0228333333333333,43.73,-79.34,11,Adult,16,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+305,0.3932388059701493,0.0542537313432835,316,0.0185555555555555,43.73,-79.33,2,Adult,16,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+306,0.4873448275862069,0.0417758620689655,207,0.0874,43.73,-79.3,7,Adult,"16,21",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+307,0.5600566037735848,0.0796037735849056,119,0.076,43.73,-79.29,4,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+308,0.5076202531645572,0.0753670886075949,20,0.014,43.73,-79.28,3,Super Senior,21,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+309,0.535942857142857,0.0873428571428571,75,0.04975,43.73,-79.27,9,Adult,21,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+310,0.581168539325843,0.0597640449438201,50,0.0308,43.73,-79.26,13,Young Adult,"21,20",Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+311,0.6128000000000001,0.0783733333333333,33,0.061,43.73,-79.25,25,Super Senior,"21,20",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+312,0.8825072463768119,0.0680289855072463,49,0.0254,43.73,-79.24,21,Super Senior,"21,20",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+313,0.631450980392157,0.0528627450980392,24,0.049,43.73,-79.22,4,Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+314,0.4223421052631579,0.106578947368421,11,0.0055,43.73,-79.21,4,Adult,20,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+315,0.7857647058823529,0.0452941176470588,81,0.0075,43.74,-79.63,3,Super Senior,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+316,0.5447343749999999,0.0635468749999999,105,0.1128333333333333,43.74,-79.62,2,Adult,1,Ice,Freezing Rain,Dark,No Control,Small-size Vehicle,Driving Properly,Ability Impaired (Drugs/Alcohol),<Null>,<Null>,<Null>,<Null>,<Null>
+317,0.633125,0.0621477272727272,3,0.006,43.74,-79.61,6,Senior,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+318,0.6053571428571428,0.079734693877551,52,0.02,43.74,-79.6,8,Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Improper Turn,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+319,0.5601772151898736,0.0605316455696202,20,0.0289999999999999,43.74,-79.59,12,Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+320,0.5254421052631578,0.0846,37,0.0166666666666666,43.74,-79.58,23,Super Senior,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+321,0.6468163265306123,0.0497142857142857,84,0.0208888888888888,43.74,-79.56,14,Adult,7,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+322,0.4873859649122807,0.0615438596491228,7,0.0075,43.74,-79.55,6,Super Senior,7,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+323,0.5572291666666667,0.0540624999999999,243,0.0801666666666666,43.74,-79.54,1,Adult,7,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+324,0.6249878048780487,0.0953780487804878,46,0.039,43.74,-79.51,9,Adult,7,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+325,0.445265060240964,0.0863855421686746,10,0.047,43.74,-79.5,6,Young Adult,"7,6",Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+326,0.5763174603174602,0.0643015873015873,249,0.0379999999999999,43.74,-79.48,13,Adult,6,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+327,0.643,0.0614285714285714,39,0.029,43.74,-79.46,3,Adult,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+328,0.5374444444444444,0.0581428571428571,37,0.0095,43.74,-79.45,4,Young Adult,6,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+329,0.6025499999999997,0.0604624999999999,6,0.0185,43.74,-79.43,2,Adult,6,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+330,0.5604893617021278,0.0196382978723404,800,0.0074545454545454,43.74,-79.41,1,Adult,8,Dry,Clear,Daylight,No Control,Small-size Vehicle,Other,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+331,0.5464264705882352,0.0677499999999999,40,0.0121999999999999,43.74,-79.4,14,Super Senior,"8,15",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+332,0.5699791666666668,0.0571874999999999,22,0.01,43.74,-79.38,2,Super Senior,15,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,Yes
+333,0.4704303797468355,0.0895189873417721,3,0.015,43.74,-79.34,3,Adult,16,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+334,0.389,0.0537105263157894,269,0.0077777777777777,43.74,-79.33,7,Senior,16,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+335,0.5217413793103447,0.0459827586206896,63,0.0142857142857142,43.74,-79.32,4,Adult,16,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Ability Impaired (Drugs/Alcohol),Yes,Yes,<Null>,<Null>,<Null>
+336,0.6077872340425533,0.0663297872340425,60,0.0102,43.74,-79.31,11,Young Adult,16,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+337,0.5811111111111111,0.0703174603174602,105,0.0125555555555555,43.74,-79.3,16,Adult,21,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+338,0.5085205479452054,0.0485753424657534,128,0.0188333333333333,43.74,-79.29,14,Adult,21,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+339,0.528,0.0579130434782608,33,0.0098333333333333,43.74,-79.28,7,Adult,21,Dry,Clear,Dark,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+340,0.610872340425532,0.084595744680851,31,0.0557499999999999,43.74,-79.27,10,Young Adult,21,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+341,0.4288275862068965,0.0610689655172413,12,0.0186666666666666,43.74,-79.25,4,Young Adult,21,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+342,0.416551724137931,0.0798103448275862,3,0.005,43.74,-79.24,10,Super Senior,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+343,0.3989032258064517,0.0783225806451612,3,0.009,43.74,-79.23,8,Young Adult,"21,20",Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+344,0.554,0.0991333333333333,9,0.0073333333333333,43.74,-79.21,13,Super Senior,24,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+345,0.7989047619047618,0.0355238095238095,200,0.0301666666666666,43.75,-79.63,3,Adult,1,Dry,Clear,Daylight,No Control,Small-size Vehicle,Speeding,Fatigue,<Null>,Yes,<Null>,<Null>,<Null>
+346,0.6021428571428571,0.0525428571428571,6,0.0135,43.75,-79.62,2,Young Adult,1,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+347,0.5413720930232558,0.0537906976744186,205,0.0505,43.75,-79.61,8,Adult,1,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+348,0.5705964912280702,0.0774912280701754,37,0.0305,43.75,-79.6,6,Adult,1,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+349,0.6510789473684211,0.0471052631578947,19,0.048,43.75,-79.57,2,Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+350,0.5468723404255316,0.0423510638297872,13,0.125,43.75,-79.56,5,Super Senior,7,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+351,0.7997866666666665,0.0694799999999999,4,0.008,43.75,-79.55,5,Adult,7,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+352,0.8184565217391302,0.0797717391304347,306,0.040625,43.75,-79.54,16,Super Senior,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+353,0.5837619047619048,0.0471785714285714,468,0.0188333333333333,43.75,-79.53,8,Children,7,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+354,0.5745783132530119,0.0697831325301204,183,0.0131,43.75,-79.52,10,Super Senior,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+355,0.5721199999999999,0.0936533333333333,95,0.0232857142857142,43.75,-79.51,20,Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+356,0.605265306122449,0.0832857142857142,7,0.0275,43.75,-79.5,5,Young Adult,7,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,Normal,Yes,Yes,<Null>,<Null>,<Null>
+357,0.6268421052631576,0.0937263157894736,91,0.0235,43.75,-79.48,8,Super Senior,"7,6",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+358,0.6336170212765956,0.0767446808510638,135,0.0124285714285714,43.75,-79.46,8,Adult,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+359,0.5474757281553401,0.0577961165048543,12,0.025,43.75,-79.45,12,Young Adult,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+360,0.6778414634146341,0.0615487804878048,30,0.039,43.75,-79.44,7,Super Senior,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+361,0.5764833333333333,0.0569333333333333,17,0.0105,43.75,-79.43,17,Young Adult,6,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+362,0.4268372093023256,0.075906976744186,5,0.008,43.75,-79.42,5,Adult,18,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+363,0.4588115942028984,0.0992608695652173,640,0.0135,43.75,-79.41,6,Adult,18,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+364,0.4716435643564357,0.0566237623762376,536,0.0038333333333333,43.75,-79.4,7,Super Senior,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+365,0.5462833333333333,0.0468166666666666,26,0.0235,43.75,-79.38,2,Young Adult,15,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+366,0.4922471910112359,0.0790674157303371,55,0.02325,43.75,-79.36,2,Adult,"15,16",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+367,0.6407972972972973,0.1081621621621621,6,0.005,43.75,-79.35,6,Children,16,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+368,0.5607142857142856,0.061125,26,0.0173333333333333,43.75,-79.34,7,Adult,16,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+369,0.4584556962025316,0.0544177215189873,198,0.007090909090909,43.75,-79.33,2,Adult,16,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+370,0.5011785714285715,0.0711904761904761,129,0.0344285714285714,43.75,-79.31,18,Super Senior,"16,21",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+371,0.4034399999999998,0.0769799999999999,12,0.0115,43.75,-79.3,8,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+372,0.526121212121212,0.0566969696969696,81,0.07625,43.75,-79.29,5,Adult,21,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+373,0.426463768115942,0.0668985507246376,3,0.004,43.75,-79.28,3,Adult,21,Dry,Clear,Dark,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+374,0.5649175257731961,0.079701030927835,77,0.0101428571428571,43.75,-79.27,2,Young Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,Disobeyed Traffic Control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+375,0.6246842105263155,0.0876973684210526,71,0.0234285714285714,43.75,-79.26,11,Super Senior,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+376,0.4988695652173913,0.0705072463768115,18,0.0476666666666666,43.75,-79.25,9,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+377,0.4814109589041098,0.0607260273972602,58,0.0204999999999999,43.75,-79.24,17,Super Senior,"21,24",Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+378,0.5214307692307693,0.0859076923076922,3,0.049,43.75,-79.23,6,Adult,24,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,Disobeyed Traffic Control,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+379,0.8129999999999998,0.0587619047619047,6,0.053,43.75,-79.21,3,Young Adult,24,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+380,0.4998653846153845,0.0677884615384615,39,0.029,43.75,-79.19,4,Super Senior,24,Dry,Clear,Dark,Stop/Yield Sign,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+381,0.5268888888888887,0.1515555555555555,18,0.0115,43.76,-79.59,1,Adult,1,Dry,Clear,Dark,No Control,Large-size Vehicle,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+382,0.4983636363636365,0.050090909090909,23,0.0136666666666666,43.76,-79.57,8,Adult,7,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+383,0.6899038461538463,0.0472499999999999,57,0.0171666666666666,43.76,-79.56,2,Adult,1,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+384,0.7370222222222224,0.0581666666666666,38,0.0338333333333333,43.76,-79.55,3,Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+385,0.6355172413793102,0.0537471264367816,43,0.016,43.76,-79.54,2,Adult,7,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+386,0.4462777777777778,0.0801481481481481,83,0.237,43.76,-79.52,6,Children,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+387,0.5177222222222221,0.1182083333333333,6,0.009,43.76,-79.5,4,Young Adult,7,Dry,Clear,Artificial,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+388,0.5643513513513511,0.0819459459459459,91,0.0169999999999999,43.76,-79.49,18,Super Senior,"7,6",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+389,0.5901084337349399,0.0639638554216867,160,0.0474444444444444,43.76,-79.48,5,Super Senior,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+390,0.5504470588235292,0.0716941176470588,35,0.018,43.76,-79.47,2,Adult,6,Dry,Clear,Dark,Stop/Yield Sign,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+391,0.5869310344827586,0.0498448275862069,335,0.0395555555555555,43.76,-79.46,14,Super Senior,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+392,0.484142857142857,0.0603142857142857,20,0.0494999999999999,43.76,-79.44,3,Senior,"6,18",Wet,Rain,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+393,0.535,0.0620357142857142,112,0.0144444444444444,43.76,-79.41,20,Super Senior,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+394,0.4762872340425531,0.0892127659574467,59,0.0533333333333333,43.76,-79.4,6,Adult,18,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+395,0.4242209302325582,0.0742906976744185,173,0.0084999999999999,43.76,-79.39,1,Super Senior,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,Other,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+396,0.4944285714285712,0.0474591836734693,1378,0.0090555555555555,43.76,-79.38,15,Adult,"18,17",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+397,0.4883787878787878,0.0484545454545454,984,0.0094545454545454,43.76,-79.37,2,Adult,17,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+398,0.5432911392405063,0.0567974683544303,5720,0.0270714285714285,43.76,-79.36,6,Adult,"15,16",Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+399,0.5264615384615385,0.0480961538461538,356,0.0042,43.76,-79.35,2,Adult,16,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+400,0.5824719101123595,0.0438539325842696,278,0.0046428571428571,43.76,-79.34,7,Adult,17,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+401,0.5154848484848484,0.0397676767676767,940,0.01455,43.76,-79.33,1,Adult,16,Dry,Clear,Daylight,No Control,Two Wheeler,Following too Close,Other,<Null>,Yes,<Null>,<Null>,<Null>
+402,0.5169710144927538,0.0428405797101449,185,0.0044615384615384,43.76,-79.32,5,Young Adult,16,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+403,0.4135180722891566,0.0538433734939759,264,0.0051538461538461,43.76,-79.31,8,Adult,"16,21",Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+404,0.4777682926829268,0.0706951219512195,182,0.0099999999999999,43.76,-79.3,10,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+405,0.6402307692307694,0.0749780219780219,22,0.0115,43.76,-79.29,6,Adult,21,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+406,0.5340114942528736,0.0563563218390804,163,0.0144444444444444,43.76,-79.28,20,Super Senior,21,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+407,0.5781363636363634,0.0742363636363636,138,0.055,43.76,-79.27,8,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+408,0.4861818181818182,0.0606181818181818,3,0.007,43.76,-79.26,1,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,Other,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+409,0.3811190476190476,0.0768809523809523,3,0.004,43.76,-79.24,2,Adult,"21,24",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+410,0.4384675324675324,0.0951818181818182,6,0.0045,43.76,-79.22,8,Adult,24,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+411,0.5139876543209877,0.0841604938271604,21,0.0106666666666666,43.76,-79.19,8,Young Adult,24,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+412,0.5525189873417721,0.0843164556962025,28,0.01,43.76,-79.18,21,Super Senior,24,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+413,0.5268358208955223,0.118597014925373,9,0.0415,43.76,-79.17,3,Young Adult,25,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+414,0.5893125,0.08875,51,0.0139999999999999,43.77,-79.54,4,Children,7,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+415,0.5706538461538462,0.0576923076923076,126,0.0166,43.77,-79.53,3,Young Adult,7,Dry,Clear,Dark,Traffic Signal,Two Wheeler,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+416,0.5308125,0.0619999999999999,35,0.0158571428571428,43.77,-79.52,11,Super Senior,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+417,0.5431666666666666,0.1079666666666666,4,0.005,43.77,-79.51,2,Adult,7,Dry,Clear,Dark,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+418,0.5466705882352941,0.0552470588235294,6,0.005,43.77,-79.5,4,Young Adult,7,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+419,0.6534745762711865,0.0505593220338983,812,0.1193333333333333,43.77,-79.49,1,Young Adult,"7,6",Dry,Clear,Dark,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+420,0.5321111111111111,0.0772777777777777,316,0.0527142857142857,43.77,-79.46,5,Adult,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+421,0.5797872340425531,0.0601063829787233,36,0.0154,43.77,-79.44,11,Super Senior,"6,18",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+422,0.5536046511627906,0.0490930232558139,97,0.1146666666666666,43.77,-79.43,5,Young Adult,18,Dry,Clear,Dark,Stop/Yield Sign,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+423,0.4670921052631576,0.086078947368421,45,0.03275,43.77,-79.42,6,Adult,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,Lost control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+424,0.4427338709677421,0.0658225806451612,12,0.008,43.77,-79.41,19,Adult,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+425,0.4039682539682539,0.1264603174603174,3,0.005,43.77,-79.39,2,Adult,"18,17",Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+426,0.4962931034482759,0.0702241379310344,7,0.0055,43.77,-79.38,4,Adult,"18,17",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+427,0.4874313725490196,0.072313725490196,4,0.007,43.77,-79.37,5,Super Senior,17,Dry,Clear,Daylight,Stop/Yield Sign,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+428,0.5428285714285715,0.0795857142857142,19,0.01575,43.77,-79.36,3,Adult,17,Dry,Clear,Artificial,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+429,0.4593272727272727,0.0538727272727272,16,0.0215,43.77,-79.35,5,Adult,17,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+430,0.4413749999999999,0.058735294117647,275,0.0146,43.77,-79.34,19,Adult,17,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+431,0.5502400000000001,0.070128,66,0.008625,43.77,-79.33,7,Adult,17,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+432,0.6006103896103894,0.0697402597402597,136,0.0365,43.77,-79.32,11,Super Senior,"17,22",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+433,0.5451232876712326,0.0547671232876712,156,0.0074166666666666,43.77,-79.3,13,Senior,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+434,0.6047866666666667,0.0312133333333333,384,0.0038,43.77,-79.29,5,Adult,22,Wet,Rain,Dark,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+435,0.6139243697478988,0.0454369747899159,1259,0.0171176470588235,43.77,-79.28,11,Adult,21,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+436,0.5697362637362635,0.0674065934065933,348,0.0099411764705882,43.77,-79.27,6,Adult,21,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+437,0.5201287128712873,0.0715841584158415,101,0.0105555555555555,43.77,-79.26,12,Young Adult,21,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+438,0.4511065573770489,0.0758360655737705,235,0.032,43.77,-79.25,21,Young Adult,"21,24",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+439,0.574627906976744,0.0663837209302325,52,0.0197999999999999,43.77,-79.23,18,Senior,24,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+440,0.3921132075471696,0.0640943396226415,3,0.007,43.77,-79.22,7,Young Adult,24,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+441,0.3816078431372549,0.0917254901960784,3,0.012,43.77,-79.21,6,Adult,24,Dry,Clear,Dark,No Control,Small-size Vehicle,Lost control,Unknown,<Null>,Yes,<Null>,<Null>,<Null>
+442,0.4608970588235294,0.0655588235294117,30,0.008,43.77,-79.18,10,Young Adult,"24,25",Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+443,0.6197368421052629,0.0609999999999999,6,0.021,43.77,-79.17,9,Adult,25,Dry,Clear,Dark,No Control,Small-size Vehicle,Failed to Yield Right of Way,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+444,0.5336829268292684,0.0679756097560975,3,0.031,43.77,-79.16,3,Young Adult,25,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+445,0.7128181818181818,0.0558181818181818,209,0.025,43.78,-79.49,12,Super Senior,"7,6",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+446,0.6152692307692308,0.0808461538461538,125,0.0226666666666666,43.78,-79.48,5,Super Senior,6,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+447,0.5710816326530611,0.0621020408163265,99,0.0293333333333333,43.78,-79.47,7,Young Adult,6,Wet,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+448,0.471078947368421,0.0787105263157894,34,0.0275,43.78,-79.46,3,Adult,6,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+449,0.5008717948717949,0.0896410256410256,23,0.037,43.78,-79.44,12,Adult,"6,18",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+450,0.4176363636363636,0.070012987012987,70,0.0154285714285714,43.78,-79.41,23,Super Senior,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+451,0.4560499999999999,0.0830666666666666,8,0.016,43.78,-79.4,15,Super Senior,18,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+452,0.4456181818181819,0.0889272727272727,9,0.007,43.78,-79.39,7,Super Senior,"18,17",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+453,0.4569374999999999,0.086375,8,0.027,43.78,-79.37,2,Adult,17,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+454,0.4766491228070175,0.0592456140350877,9,0.048,43.78,-79.36,4,Adult,17,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+455,0.4658260869565216,0.0339782608695652,401,0.0132222222222222,43.78,-79.34,3,Adult,17,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+456,0.6343,0.0384666666666666,3,0.005,43.78,-79.31,7,Super Senior,22,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+457,0.5343896103896103,0.064038961038961,33,0.0326666666666666,43.78,-79.29,12,Super Senior,22,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+458,0.5554230769230769,0.0722692307692307,54,0.0111999999999999,43.78,-79.28,15,Super Senior,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+459,0.5518356164383561,0.0634794520547945,16,0.0096666666666666,43.78,-79.27,7,Adult,23,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+460,0.471986842105263,0.0477236842105263,118,0.00275,43.78,-79.26,8,Super Senior,23,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+461,0.4598020833333332,0.0408749999999999,272,0.0055882352941176,43.78,-79.25,13,Senior,23,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+462,0.5436891891891891,0.0525135135135135,219,0.010090909090909,43.78,-79.24,4,Young Adult,23,Dry,Clear,Dark,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+463,0.5706315789473685,0.0571842105263158,309,0.0075,43.78,-79.23,12,Young Adult,24,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+464,0.4751346153846156,0.0662307692307692,44,0.0025,43.78,-79.22,1,Adult,24,Dry,Clear,Dusk,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+465,0.5040600000000002,0.0831199999999999,3,0.004,43.78,-79.2,6,Adult,24,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+466,0.601673469387755,0.0760816326530612,98,0.04975,43.78,-79.19,1,Senior,"24,25",Wet,Rain,Daylight,No Control,Small-size Vehicle,Disobeyed Traffic Control,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+467,0.4897878787878787,0.0407878787878788,5,0.013,43.78,-79.18,3,Young Adult,25,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+468,0.6436969696969697,0.0547272727272727,3,0.02,43.78,-79.16,7,Adult,25,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+469,0.544375,0.041875,8,0.016,43.79,-79.45,4,Young Adult,6,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+470,0.4665952380952381,0.1053571428571428,44,0.0196666666666666,43.79,-79.44,9,Super Senior,"6,18",Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+471,0.4572933333333333,0.0906666666666666,76,0.02925,43.79,-79.42,18,Super Senior,18,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+472,0.4090869565217391,0.0640724637681159,3,0.014,43.79,-79.41,15,Adult,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+473,0.5168235294117648,0.0673823529411764,9,0.0113333333333333,43.79,-79.39,4,Young Adult,"18,17",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+474,0.5365897435897435,0.0514102564102563,41,0.0323333333333333,43.79,-79.36,6,Young Adult,17,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+475,0.5994794520547946,0.0780958904109589,34,0.0228,43.79,-79.35,23,Super Senior,17,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+476,0.5212444444444446,0.0388333333333333,127,0.009,43.79,-79.34,2,Adult,17,Dry,Clear,Daylight,Traffic Signal,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+477,0.4625070422535209,0.0524647887323943,20,0.0085,43.79,-79.33,11,Super Senior,"17,22",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+478,0.4791443298969073,0.0781958762886597,19,0.0145,43.79,-79.31,20,Senior,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+479,0.6144444444444445,0.0496666666666666,11,0.009,43.79,-79.3,5,Adult,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+480,0.5295526315789474,0.0432631578947368,69,0.0513333333333333,43.79,-79.29,5,Adult,22,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+481,0.5441276595744678,0.0548510638297872,13,0.0485,43.79,-79.28,3,Adult,"22,23",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+482,0.5310333333333332,0.1047,78,0.0198,43.79,-79.26,2,Young Adult,23,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+483,0.5353098591549296,0.0841971830985915,98,0.0353333333333333,43.79,-79.25,3,Senior,23,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+484,0.5178101265822787,0.0743164556962024,35,0.009,43.79,-79.24,5,Super Senior,23,Dry,Clear,Daylight,No Control,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+485,0.5682666666666667,0.066895238095238,318,0.0125,43.79,-79.23,12,Adult,23,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+486,0.7437599999999998,0.0631333333333333,21,0.001,43.79,-79.22,5,Super Senior,23,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+487,0.4851805555555554,0.0276944444444444,301,0.0128,43.79,-79.21,8,Young Adult,"23,25",Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+488,0.5484886363636362,0.050840909090909,20,0.001,43.79,-79.2,5,Young Adult,25,Dry,Clear,Artificial,No Control,Small-size Vehicle,Improper Turn,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+489,0.512536231884058,0.0314927536231883,30,0.01275,43.79,-79.19,5,Adult,25,Dry,Clear,Artificial,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+490,0.5533968253968254,0.0525396825396825,3,0.037,43.79,-79.17,3,Adult,25,Dry,Clear,Dark,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+491,0.5890410958904112,0.0395479452054794,16,0.0013333333333333,43.79,-79.15,1,Adult,25,Dry,Clear,Daylight,No Control,Two Wheeler,Speeding,Normal,Yes,Yes,<Null>,<Null>,<Null>
+492,0.5158227848101267,0.054126582278481,54,0.0065714285714285,43.79,-79.14,9,Super Senior,25,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+493,0.447,0.0668333333333333,94,0.1245,43.8,-79.4,4,Adult,18,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+494,0.3144090909090909,0.0491818181818181,6,0.007,43.8,-79.39,2,Young Adult,18,Dry,Clear,Artificial,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+495,0.4271874999999999,0.0518125,7,0.024,43.8,-79.38,5,Senior,17,Dry,Clear,Artificial,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+496,0.4035238095238094,0.0599523809523809,9,0.044,43.8,-79.37,4,Adult,17,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+497,0.4964651162790697,0.0655581395348837,6,0.018,43.8,-79.33,9,Super Senior,22,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+498,0.5036052631578947,0.0863947368421052,5,0.009,43.8,-79.32,6,Adult,22,Wet,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+499,0.5970754716981133,0.0611320754716981,3,0.008,43.8,-79.31,6,Young Adult,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+500,0.5351372549019608,0.0619411764705882,9,0.047,43.8,-79.3,6,Adult,22,Dry,Clear,Daylight,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+501,0.6761123595505617,0.0636629213483146,388,0.20325,43.8,-79.29,12,Young Adult,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+502,0.6110677966101693,0.0719999999999999,3,0.005,43.8,-79.28,13,Super Senior,"22,23",Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+503,0.6452394366197184,0.0832394366197182,7,0.01,43.8,-79.27,7,Young Adult,23,Wet,Clear,Dark,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+504,0.6701944444444444,0.081736111111111,41,0.03075,43.8,-79.26,14,Adult,23,Dry,Clear,Daylight,No Control,Small-size Vehicle,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+505,0.668156862745098,0.0417058823529411,54,0.01725,43.8,-79.24,1,Adult,<Null>,Dry,Clear,Artificial,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+506,0.7664929577464791,0.0635492957746478,10,0.0325,43.8,-79.23,2,Adult,23,Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+507,0.5283220338983049,0.0601186440677966,3,0.004,43.8,-79.21,5,Young Adult,"23,25",Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+508,0.51275,0.0486190476190475,18,0.1585,43.8,-79.2,4,Young Adult,25,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+509,0.6238658536585364,0.0654024390243902,29,0.016,43.8,-79.19,16,Adult,25,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+510,0.4755749999999999,0.05305,27,0.085,43.8,-79.18,2,Young Adult,25,Dry,Clear,Dark,No Control,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+511,0.598348484848485,0.0260757575757575,3,0.004,43.8,-79.17,11,Adult,25,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+512,0.4898750000000002,0.0402499999999999,3,0.005,43.8,-79.16,4,Adult,25,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+513,0.4227619047619046,0.0376666666666666,6,0.0005,43.8,-79.14,2,Adult,25,Dry,Clear,Artificial,No Control,Small-size Vehicle,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+514,0.6537499999999999,0.073375,85,0.0785,43.81,-79.36,5,Adult,17,Wet,Clear,Daylight,Traffic Signal,Small-size Vehicle,Disobeyed Traffic Control,<Null>,<Null>,Yes,<Null>,<Null>,Yes
+515,0.5297857142857143,0.0586071428571428,3,0.001,43.81,-79.35,3,Adult,17,Wet,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+516,0.6352857142857143,0.0607678571428571,129,0.0518,43.81,-79.34,2,Super Senior,17,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+517,0.5477368421052631,0.0524035087719298,3,0.011,43.81,-79.33,7,Adult,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+518,0.4609433962264151,0.0621509433962263,21,0.0263333333333333,43.81,-79.3,6,Children,22,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+519,0.5827647058823531,0.0593235294117647,12,0.176,43.81,-79.27,8,Adult,23,Dry,Clear,Daylight,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+520,0.6565970149253731,0.0937014925373134,3,0.008,43.81,-79.26,10,Adult,23,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+521,0.7501599999999999,0.07428,7,0.0405,43.81,-79.25,5,Young Adult,23,Dry,Clear,Daylight,No Control,Two Wheeler,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+522,0.6729473684210524,0.0555263157894736,78,0.0126,43.81,-79.24,8,Adult,23,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+523,0.6206666666666665,0.0566666666666666,35,0.01975,43.81,-79.23,8,Adult,23,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Lost control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+524,0.61418,0.1045,74,0.1385,43.82,-79.3,9,Adult,22,Dry,Clear,Daylight,Traffic Signal,Small-size Vehicle,Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+525,0.5392625,0.0748374999999999,41,0.0536,43.82,-79.26,6,Adult,23,Dry,Clear,Daylight,No Control,Large-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+526,0.6644578313253012,0.0690120481927711,51,0.0236666666666666,43.82,-79.24,7,Young Adult,23,Dry,Clear,Dark,No Control,Small-size Vehicle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+527,0.496313725490196,0.042078431372549,6,0.015,43.82,-79.22,1,Young Adult,25,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+528,0.5214285714285715,0.0395,22,0.027,43.83,-79.27,5,Adult,23,Dry,Clear,Dark,Traffic Signal,Small-size Vehicle,Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+529,0.52828125,0.067625,30,0.016,43.83,-79.25,11,Super Senior,23,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+530,0.6227441860465117,0.0580930232558139,6,0.008,43.83,-79.24,5,Young Adult,23,Dry,Clear,Dark,Stop/Yield Sign,Small-size Vehicle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+531,1.0963999999999998,0.0034,3,0.032,43.85,-79.18,1,Senior,25,Wet,Clear,Daylight,No Control,Other,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
