@@ -1,689 +1,689 @@
-,LATITUDE,LONGITUDE,RDSFCOND,VISIBILITY,LIGHT,TRAFFCTL
-0,43.59,-79.54,Dry,Clear,Dark,No Control
-1,43.59,-79.53,Dry,Clear,Daylight,Traffic Signal
-2,43.59,-79.52,Dry,Clear,Daylight,No Control
-3,43.59,-79.51,Dry,Clear,Dark,No Control
-4,43.59,-79.5,Dry,Clear,Daylight,Traffic Signal
-5,43.6,-79.55,Dry,Clear,Dark,No Control
-6,43.6,-79.54,Dry,Clear,Daylight,Traffic Signal
-7,43.6,-79.53,Dry,Clear,Daylight,No Control
-8,43.6,-79.51,Dry,Clear,Daylight,No Control
-9,43.6,-79.5,Dry,Clear,Daylight,No Control
-10,43.6,-79.49,Dry,Clear,Daylight,No Control
-11,43.61,-79.56,Dry,Clear,Dark,Traffic Signal
-12,43.61,-79.55,Dry,Clear,Daylight,Traffic Signal
-13,43.61,-79.54,Dry,Clear,Dark,No Control
-14,43.61,-79.53,Dry,Clear,Dark,No Control
-15,43.61,-79.52,Dry,Clear,Daylight,No Control
-16,43.61,-79.51,Dry,Clear,Daylight,Traffic Signal
-17,43.61,-79.5,Dry,Clear,"Dark, artificial",No Control
-18,43.61,-79.49,Dry,Clear,Daylight,No Control
-19,43.61,-79.48,Dry,Clear,Daylight,No Control
-20,43.62,-79.56,Dry,Clear,Daylight,Traffic Signal
-21,43.62,-79.55,Dry,Clear,Daylight,Traffic Signal
-22,43.62,-79.54,Dry,Clear,"Dark, artificial",No Control
-23,43.62,-79.53,Dry,Clear,Daylight,No Control
-24,43.62,-79.52,Dry,Clear,"Dark, artificial",No Control
-25,43.62,-79.51,Dry,Clear,Daylight,No Control
-26,43.62,-79.5,Dry,Clear,"Dark, artificial",No Control
-27,43.62,-79.49,Dry,Clear,"Dark, artificial",No Control
-28,43.62,-79.48,Dry,Clear,Daylight,No Control
-29,43.62,-79.47,Dry,Clear,Daylight,No Control
-30,43.62,-79.42,Dry,Clear,"Dark, artificial",No Control
-31,43.63,-79.58,Dry,Clear,Daylight,No Control
-32,43.63,-79.57,Dry,Clear,Daylight,Traffic Signal
-33,43.63,-79.56,Dry,Clear,Daylight,No Control
-34,43.63,-79.55,Dry,Clear,Daylight,Traffic Signal
-35,43.63,-79.54,Dry,Clear,Daylight,Traffic Signal
-36,43.63,-79.53,Dry,Clear,"Dark, artificial",No Control
-37,43.63,-79.52,Dry,Clear,Daylight,No Control
-38,43.63,-79.51,Dry,Clear,Daylight,No Control
-39,43.63,-79.5,Dry,Clear,"Dark, artificial",No Control
-40,43.63,-79.48,Dry,Clear,Daylight,Traffic Signal
-41,43.63,-79.47,Dry,Clear,Daylight,No Control
-42,43.63,-79.46,Dry,Clear,"Dark, artificial",No Control
-43,43.63,-79.45,Dry,Clear,Dark,No Control
-44,43.63,-79.44,Dry,Clear,Daylight,No Control
-45,43.63,-79.43,Dry,Clear,Daylight,No Control
-46,43.63,-79.42,Dry,Clear,"Dark, artificial",No Control
-47,43.63,-79.41,Dry,Clear,"Dark, artificial",Traffic Signal
-48,43.63,-79.4,Dry,Clear,Dark,Traffic Signal
-49,43.63,-79.39,Dry,Clear,Daylight,Traffic Signal
-50,43.63,-79.38,Dry,Clear,Daylight,Traffic Signal
-51,43.63,-79.34,Dry,Clear,Daylight,No Control
-52,43.64,-79.57,Dry,Clear,Daylight,Traffic Signal
-53,43.64,-79.56,Dry,Clear,Daylight,Traffic Signal
-54,43.64,-79.55,Dry,Clear,Daylight,No Control
-55,43.64,-79.54,Dry,Clear,Dark,No Control
-56,43.64,-79.53,Dry,Clear,Daylight,No Control
-57,43.64,-79.52,Dry,Clear,Daylight,No Control
-58,43.64,-79.51,Dry,Clear,Daylight,Traffic Signal
-59,43.64,-79.5,Dry,Clear,Daylight,Stop Sign
-60,43.64,-79.49,Dry,Clear,Daylight,No Control
-61,43.64,-79.48,Dry,Clear,Daylight,Traffic Signal
-62,43.64,-79.47,Dry,Clear,Daylight,Stop Sign
-63,43.64,-79.45,Dry,Clear,Daylight,No Control
-64,43.64,-79.44,Dry,Clear,Daylight,No Control
-65,43.64,-79.43,Dry,Clear,Daylight,Traffic Signal
-66,43.64,-79.42,Dry,Clear,Daylight,No Control
-67,43.64,-79.41,Dry,Clear,Daylight,Traffic Signal
-68,43.64,-79.4,Dry,Clear,Daylight,Traffic Signal
-69,43.64,-79.39,Dry,Clear,Daylight,No Control
-70,43.64,-79.38,Dry,Clear,Daylight,Traffic Signal
-71,43.64,-79.37,Dry,Clear,Daylight,Traffic Signal
-72,43.64,-79.36,Dry,Clear,Daylight,Traffic Signal
-73,43.64,-79.35,Dry,Clear,Dark,No Control
-74,43.64,-79.34,Dry,Clear,Daylight,No Control
-75,43.64,-79.32,Dry,Clear,Dark,No Control
-76,43.65,-79.6,Dry,Clear,Daylight,No Control
-77,43.65,-79.59,Dry,Clear,Daylight,Traffic Signal
-78,43.65,-79.58,Dry,Clear,Daylight,No Control
-79,43.65,-79.57,Dry,Clear,Daylight,No Control
-80,43.65,-79.56,Dry,Clear,"Dark, artificial",No Control
-81,43.65,-79.55,Dry,Clear,Daylight,No Control
-82,43.65,-79.54,Wet,Clear,Dark,No Control
-83,43.65,-79.53,Dry,Clear,Dark,Traffic Signal
-84,43.65,-79.52,Dry,Clear,"Dark, artificial",No Control
-85,43.65,-79.51,Dry,Clear,Daylight,No Control
-86,43.65,-79.5,Slush,Snow,Daylight,No Control
-87,43.65,-79.49,Loose Snow,Rain,Daylight,Stop Sign
-88,43.65,-79.48,Dry,Clear,Daylight,Traffic Signal
-89,43.65,-79.47,Dry,Clear,Daylight,No Control
-90,43.65,-79.46,Dry,Clear,Daylight,No Control
-91,43.65,-79.45,Dry,Clear,Daylight,No Control
-92,43.65,-79.44,Dry,Clear,Daylight,No Control
-93,43.65,-79.43,Dry,Clear,Daylight,Traffic Signal
-94,43.65,-79.42,Dry,Clear,Daylight,No Control
-95,43.65,-79.41,Dry,Clear,Daylight,No Control
-96,43.65,-79.4,Dry,Clear,Daylight,No Control
-97,43.65,-79.39,Dry,Clear,Daylight,No Control
-98,43.65,-79.38,Dry,Clear,Daylight,Traffic Signal
-99,43.65,-79.37,Dry,Clear,Daylight,No Control
-100,43.65,-79.36,Dry,Clear,Daylight,Traffic Signal
-101,43.65,-79.35,Dry,Clear,Daylight,No Control
-102,43.65,-79.34,Dry,Clear,Daylight,No Control
-103,43.65,-79.33,Dry,Clear,Daylight,Traffic Signal
-104,43.65,-79.32,Dry,Clear,Dark,Traffic Signal
-105,43.66,-79.59,Dry,Clear,Dark,No Control
-106,43.66,-79.58,Dry,Clear,Daylight,No Control
-107,43.66,-79.57,Dry,Clear,Dark,No Control
-108,43.66,-79.54,Dry,Clear,Daylight,No Control
-109,43.66,-79.53,Dry,Clear,Daylight,No Control
-110,43.66,-79.52,Dry,Clear,Daylight,No Control
-111,43.66,-79.51,Dry,Clear,Daylight,No Control
-112,43.66,-79.5,Wet,Rain,Daylight,Stop Sign
-113,43.66,-79.49,Dry,Clear,Daylight,Traffic Signal
-114,43.66,-79.48,Dry,Clear,Daylight,No Control
-115,43.66,-79.47,Dry,Clear,Daylight,No Control
-116,43.66,-79.46,Dry,Clear,Daylight,Traffic Signal
-117,43.66,-79.45,Dry,Clear,Daylight,No Control
-118,43.66,-79.44,Dry,Clear,Daylight,No Control
-119,43.66,-79.43,Dry,Clear,Daylight,No Control
-120,43.66,-79.42,Dry,Clear,Daylight,No Control
-121,43.66,-79.41,Dry,Clear,Daylight,No Control
-122,43.66,-79.4,Dry,Clear,Daylight,Traffic Signal
-123,43.66,-79.39,Dry,Clear,Dark,Traffic Signal
-124,43.66,-79.38,Dry,Clear,Daylight,No Control
-125,43.66,-79.37,Dry,Clear,Daylight,No Control
-126,43.66,-79.36,Dry,Clear,Daylight,Traffic Signal
-127,43.66,-79.35,Dry,Clear,Daylight,No Control
-128,43.66,-79.34,Dry,Clear,Daylight,No Control
-129,43.66,-79.33,Dry,Clear,Daylight,No Control
-130,43.66,-79.32,Dry,Clear,Daylight,No Control
-131,43.66,-79.31,Dry,Clear,Daylight,Traffic Signal
-132,43.66,-79.3,Dry,Clear,Dark,No Control
-133,43.67,-79.59,Dry,Clear,Daylight,Traffic Signal
-134,43.67,-79.57,Dry,Clear,Dark,No Control
-135,43.67,-79.56,Dry,Clear,Daylight,Traffic Signal
-136,43.67,-79.55,Dry,Clear,Daylight,No Control
-137,43.67,-79.54,Dry,Clear,"Dark, artificial",No Control
-138,43.67,-79.53,Dry,Clear,Dark,Traffic Signal
-139,43.67,-79.52,Dry,Clear,Daylight,Traffic Signal
-140,43.67,-79.51,Dry,Clear,Dark,No Control
-141,43.67,-79.5,Dry,Clear,Dark,No Control
-142,43.67,-79.49,Dry,Clear,Daylight,No Control
-143,43.67,-79.48,Dry,Clear,Daylight,No Control
-144,43.67,-79.47,Dry,Clear,Daylight,No Control
-145,43.67,-79.46,Dry,Clear,Daylight,No Control
-146,43.67,-79.45,Dry,Clear,Daylight,Traffic Signal
-147,43.67,-79.44,Dry,Clear,Daylight,No Control
-148,43.67,-79.43,Dry,Clear,Daylight,No Control
-149,43.67,-79.42,Dry,Clear,Daylight,No Control
-150,43.67,-79.41,Dry,Clear,Daylight,Traffic Signal
-151,43.67,-79.4,Dry,Clear,Daylight,No Control
-152,43.67,-79.39,Dry,Clear,Daylight,No Control
-153,43.67,-79.38,Dry,Clear,Daylight,No Control
-154,43.67,-79.37,Dry,Clear,Daylight,No Control
-155,43.67,-79.36,Dry,Clear,Daylight,No Control
-156,43.67,-79.35,Dry,Clear,Daylight,No Control
-157,43.67,-79.34,Dry,Clear,Daylight,No Control
-158,43.67,-79.33,Dry,Clear,"Dark, artificial",No Control
-159,43.67,-79.32,Dry,Clear,Daylight,No Control
-160,43.67,-79.31,Dry,Clear,Dark,No Control
-161,43.67,-79.3,Dry,Clear,Daylight,Traffic Signal
-162,43.67,-79.29,Dry,Clear,Daylight,No Control
-163,43.67,-79.28,Dry,Clear,Daylight,No Control
-164,43.67,-79.27,Dry,Clear,Daylight,Stop Sign
-165,43.68,-79.59,Dry,Clear,Dark,No Control
-166,43.68,-79.58,Dry,Clear,Daylight,No Control
-167,43.68,-79.56,Dry,Clear,Daylight,No Control
-168,43.68,-79.55,Dry,Clear,Daylight,Traffic Signal
-169,43.68,-79.54,Dry,Clear,Daylight,Traffic Signal
-170,43.68,-79.53,Wet,Clear,Daylight,No Control
-171,43.68,-79.52,Dry,Clear,Daylight,Traffic Signal
-172,43.68,-79.51,Dry,Clear,Daylight,Traffic Signal
-173,43.68,-79.5,Dry,Clear,Daylight,No Control
-174,43.68,-79.49,Dry,Clear,Daylight,No Control
-175,43.68,-79.48,Dry,Clear,Daylight,Traffic Signal
-176,43.68,-79.47,Dry,Clear,Daylight,No Control
-177,43.68,-79.46,Dry,Clear,Daylight,No Control
-178,43.68,-79.45,Dry,Clear,Daylight,Stop Sign
-179,43.68,-79.44,Dry,Clear,Daylight,No Control
-180,43.68,-79.43,Dry,Clear,Daylight,No Control
-181,43.68,-79.42,Dry,Clear,Daylight,No Control
-182,43.68,-79.41,Dry,Clear,Daylight,No Control
-183,43.68,-79.4,Dry,Clear,Daylight,No Control
-184,43.68,-79.39,Dry,Clear,Daylight,No Control
-185,43.68,-79.38,Dry,Clear,Dark,No Control
-186,43.68,-79.36,Dry,Clear,Dark,No Control
-187,43.68,-79.35,Dry,Clear,Daylight,No Control
-188,43.68,-79.34,Dry,Clear,Daylight,No Control
-189,43.68,-79.33,Dry,Clear,Daylight,No Control
-190,43.68,-79.32,Dry,Clear,Daylight,Traffic Signal
-191,43.68,-79.31,Dry,Clear,Dark,No Control
-192,43.68,-79.3,Dry,Clear,Daylight,No Control
-193,43.68,-79.29,Dry,Clear,Daylight,No Control
-194,43.68,-79.28,Dry,Clear,Daylight,No Control
-195,43.68,-79.27,Dry,Clear,Daylight,Traffic Signal
-196,43.68,-79.26,Dry,Clear,Dark,No Control
-197,43.69,-79.59,Dry,Clear,Daylight,No Control
-198,43.69,-79.58,Dry,Clear,Daylight,No Control
-199,43.69,-79.57,Dry,Clear,Daylight,Traffic Signal
-200,43.69,-79.56,Dry,Clear,"Dark, artificial",Traffic Signal
-201,43.69,-79.55,Dry,Clear,Daylight,Traffic Signal
-202,43.69,-79.54,Dry,Clear,Daylight,Traffic Signal
-203,43.69,-79.53,Dry,Clear,Daylight,Traffic Signal
-204,43.69,-79.52,Dry,Clear,Daylight,Traffic Signal
-205,43.69,-79.51,Dry,Clear,Daylight,No Control
-206,43.69,-79.5,Dry,Clear,Daylight,Traffic Signal
-207,43.69,-79.49,Dry,Clear,Daylight,No Control
-208,43.69,-79.48,Dry,Clear,Daylight,No Control
-209,43.69,-79.47,Dry,Clear,Daylight,No Control
-210,43.69,-79.46,Dry,Clear,Daylight,No Control
-211,43.69,-79.45,Dry,Clear,Daylight,No Control
-212,43.69,-79.44,Dry,Clear,"Dark, artificial",No Control
-213,43.69,-79.43,Dry,Clear,Daylight,No Control
-214,43.69,-79.42,Dry,Clear,Daylight,No Control
-215,43.69,-79.4,Dry,Clear,Daylight,Stop Sign
-216,43.69,-79.39,Dry,Clear,Daylight,No Control
-217,43.69,-79.38,Dry,Clear,Daylight,No Control
-218,43.69,-79.37,Dry,Clear,Daylight,No Control
-219,43.69,-79.36,Dry,Clear,Dark,No Control
-220,43.69,-79.35,Dry,Clear,Dark,No Control
-221,43.69,-79.34,Dry,Clear,Daylight,No Control
-222,43.69,-79.33,Dry,Clear,Daylight,No Control
-223,43.69,-79.32,Dry,Clear,Daylight,Traffic Signal
-224,43.69,-79.31,Dry,Clear,Daylight,No Control
-225,43.69,-79.3,Dry,Clear,Daylight,No Control
-226,43.69,-79.29,Dry,Clear,Daylight,No Control
-227,43.69,-79.28,Dry,Clear,Daylight,No Control
-228,43.69,-79.27,Dry,Clear,Daylight,No Control
-229,43.69,-79.26,Dry,Clear,Daylight,No Control
-230,43.69,-79.25,Dry,Clear,Daylight,No Control
-231,43.7,-79.6,Slush,Freezing Rain,Dark,No Control
-232,43.7,-79.59,Dry,Clear,Dark,No Control
-233,43.7,-79.58,Dry,Clear,Daylight,No Control
-234,43.7,-79.57,Dry,Clear,Daylight,Traffic Signal
-235,43.7,-79.56,Dry,Clear,Daylight,Traffic Signal
-236,43.7,-79.55,Dry,Clear,Dark,No Control
-237,43.7,-79.54,Dry,Clear,Daylight,Stop Sign
-238,43.7,-79.53,Dry,Clear,Daylight,No Control
-239,43.7,-79.52,Dry,Clear,"Dark, artificial",No Control
-240,43.7,-79.51,Dry,Clear,"Dark, artificial",No Control
-241,43.7,-79.5,Dry,Clear,Daylight,Traffic Signal
-242,43.7,-79.49,Dry,Clear,Dark,Traffic Signal
-243,43.7,-79.48,Dry,Clear,Daylight,No Control
-244,43.7,-79.47,Dry,Clear,Daylight,Traffic Signal
-245,43.7,-79.46,Dry,Clear,Daylight,No Control
-246,43.7,-79.45,Dry,Clear,Daylight,Traffic Signal
-247,43.7,-79.44,Wet,Clear,"Dark, artificial",No Control
-248,43.7,-79.43,Dry,Clear,Daylight,No Control
-249,43.7,-79.42,Dry,Clear,Daylight,Traffic Signal
-250,43.7,-79.41,Dry,Clear,Daylight,Traffic Signal
-251,43.7,-79.4,Dry,Clear,Daylight,No Control
-252,43.7,-79.39,Dry,Clear,Daylight,No Control
-253,43.7,-79.38,Dry,Clear,Daylight,Traffic Signal
-254,43.7,-79.37,Dry,Clear,Daylight,Pedestrian Crossover
-255,43.7,-79.36,Dry,Clear,Daylight,No Control
-256,43.7,-79.35,Dry,Clear,Daylight,Traffic Signal
-257,43.7,-79.34,Dry,Clear,Dark,No Control
-258,43.7,-79.33,Dry,Clear,Daylight,No Control
-259,43.7,-79.32,Dry,Clear,Daylight,No Control
-260,43.7,-79.31,Dry,Clear,Daylight,Traffic Signal
-261,43.7,-79.3,Dry,Clear,Dark,No Control
-262,43.7,-79.29,Dry,Clear,Daylight,No Control
-263,43.7,-79.28,Wet,Clear,Dark,No Control
-264,43.7,-79.27,Dry,Clear,Dark,No Control
-265,43.7,-79.26,Dry,Clear,Daylight,No Control
-266,43.7,-79.25,Dry,Clear,Daylight,No Control
-267,43.7,-79.24,Dry,Clear,"Dark, artificial",Traffic Signal
-268,43.7,-79.23,Dry,Clear,Dark,No Control
-269,43.71,-79.6,Dry,Clear,Daylight,No Control
-270,43.71,-79.59,Dry,Clear,"Dark, artificial",No Control
-271,43.71,-79.58,Dry,Clear,Daylight,No Control
-272,43.71,-79.57,Dry,Clear,Daylight,No Control
-273,43.71,-79.56,Dry,Clear,Daylight,No Control
-274,43.71,-79.55,Dry,Clear,Daylight,Traffic Signal
-275,43.71,-79.54,Wet,Rain,Daylight,No Control
-276,43.71,-79.53,Dry,Clear,Daylight,Traffic Signal
-277,43.71,-79.52,Dry,Clear,Daylight,No Control
-278,43.71,-79.51,Dry,Clear,Daylight,No Control
-279,43.71,-79.5,Dry,Clear,Daylight,Traffic Signal
-280,43.71,-79.48,Dry,Clear,Daylight,No Control
-281,43.71,-79.47,Dry,Clear,Daylight,Traffic Signal
-282,43.71,-79.46,Dry,Clear,Daylight,Stop Sign
-283,43.71,-79.45,Dry,Clear,Daylight,No Control
-284,43.71,-79.44,Dry,Clear,Daylight,Traffic Signal
-285,43.71,-79.43,Dry,Clear,Dark,Traffic Signal
-286,43.71,-79.42,Dry,Clear,Daylight,No Control
-287,43.71,-79.41,Dry,Clear,Daylight,No Control
-288,43.71,-79.4,Dry,Clear,"Dark, artificial",No Control
-289,43.71,-79.39,Dry,Clear,Daylight,No Control
-290,43.71,-79.38,Dry,Clear,"Dark, artificial",Traffic Signal
-291,43.71,-79.37,Dry,Clear,Daylight,Traffic Signal
-292,43.71,-79.36,Dry,Clear,Daylight,Traffic Signal
-293,43.71,-79.35,Dry,Clear,Daylight,Traffic Signal
-294,43.71,-79.33,Dry,Clear,Daylight,No Control
-295,43.71,-79.32,Dry,Clear,"Dark, artificial",No Control
-296,43.71,-79.3,Dry,Clear,Daylight,No Control
-297,43.71,-79.29,Dry,Clear,Daylight,No Control
-298,43.71,-79.28,Dry,Clear,Daylight,Traffic Signal
-299,43.71,-79.27,Dry,Clear,Daylight,No Control
-300,43.71,-79.26,Dry,Clear,Daylight,No Control
-301,43.71,-79.25,Dry,Clear,Dark,Traffic Signal
-302,43.71,-79.24,Dry,Clear,Daylight,Traffic Signal
-303,43.71,-79.23,Dry,Clear,Daylight,No Control
-304,43.72,-79.62,Dry,Clear,Daylight,Stop Sign
-305,43.72,-79.61,Dry,Clear,Daylight,No Control
-306,43.72,-79.6,Dry,Clear,Daylight,No Control
-307,43.72,-79.59,Dry,Clear,Dark,No Control
-308,43.72,-79.58,Dry,Clear,Daylight,Traffic Signal
-309,43.72,-79.57,Dry,Clear,Daylight,Traffic Signal
-310,43.72,-79.56,Dry,Clear,Daylight,No Control
-311,43.72,-79.55,Dry,Clear,Daylight,No Control
-312,43.72,-79.54,Dry,Clear,Dark,Traffic Signal
-313,43.72,-79.53,Dry,Clear,Daylight,No Control
-314,43.72,-79.52,Dry,Clear,Daylight,No Control
-315,43.72,-79.51,Dry,Clear,Daylight,No Control
-316,43.72,-79.5,Dry,Clear,Daylight,No Control
-317,43.72,-79.49,Dry,Clear,Daylight,No Control
-318,43.72,-79.48,Dry,Clear,Daylight,No Control
-319,43.72,-79.47,Dry,Clear,"Dark, artificial",No Control
-320,43.72,-79.46,Wet,Snow,Daylight,No Control
-321,43.72,-79.45,Dry,Clear,"Dark, artificial",No Control
-322,43.72,-79.44,Dry,Clear,Dark,No Control
-323,43.72,-79.43,Dry,Clear,Daylight,No Control
-324,43.72,-79.42,Dry,Clear,Daylight,No Control
-325,43.72,-79.41,Dry,Clear,Daylight,No Control
-326,43.72,-79.4,Dry,Clear,Daylight,Traffic Signal
-327,43.72,-79.39,Dry,Clear,Daylight,Traffic Signal
-328,43.72,-79.38,Dry,Clear,Daylight,No Control
-329,43.72,-79.35,Dry,Clear,Daylight,No Control
-330,43.72,-79.34,Dry,Clear,Daylight,Traffic Signal
-331,43.72,-79.33,Dry,Clear,Daylight,No Control
-332,43.72,-79.32,Dry,Clear,"Dark, artificial",No Control
-333,43.72,-79.31,Dry,Clear,Daylight,Traffic Signal
-334,43.72,-79.3,Dry,Clear,Daylight,No Control
-335,43.72,-79.29,Dry,Clear,Daylight,No Control
-336,43.72,-79.28,Dry,Clear,Daylight,Traffic Signal
-337,43.72,-79.27,Dry,Clear,Daylight,Traffic Signal
-338,43.72,-79.26,Dry,Clear,Daylight,No Control
-339,43.72,-79.25,Dry,Clear,Daylight,No Control
-340,43.72,-79.24,Dry,Clear,Daylight,No Control
-341,43.72,-79.23,Dry,Clear,Daylight,Traffic Signal
-342,43.72,-79.22,Dry,Clear,"Dark, artificial",No Control
-343,43.73,-79.62,Ice,Freezing Rain,Dark,No Control
-344,43.73,-79.61,Dry,Clear,Daylight,No Control
-345,43.73,-79.6,Dry,Clear,Dark,Traffic Signal
-346,43.73,-79.59,Dry,Clear,Daylight,No Control
-347,43.73,-79.58,Dry,Clear,Daylight,No Control
-348,43.73,-79.57,Dry,Clear,Daylight,No Control
-349,43.73,-79.56,Dry,Clear,Daylight,Traffic Signal
-350,43.73,-79.55,Dry,Clear,"Dark, artificial",No Control
-351,43.73,-79.54,Dry,Clear,Daylight,Stop Sign
-352,43.73,-79.53,Dry,Clear,"Dark, artificial",Traffic Signal
-353,43.73,-79.52,Dry,Clear,Daylight,No Control
-354,43.73,-79.51,Dry,Clear,Daylight,Traffic Signal
-355,43.73,-79.5,Dry,Clear,Daylight,No Control
-356,43.73,-79.48,Dry,Clear,Daylight,Traffic Signal
-357,43.73,-79.46,Dry,Clear,Daylight,No Control
-358,43.73,-79.45,Dry,Clear,Daylight,No Control
-359,43.73,-79.44,Dry,Clear,Daylight,No Control
-360,43.73,-79.43,Dry,Clear,Daylight,No Control
-361,43.73,-79.42,Dry,Clear,Daylight,Traffic Signal
-362,43.73,-79.41,Dry,Clear,Daylight,No Control
-363,43.73,-79.4,Dry,Clear,Dark,No Control
-364,43.73,-79.39,Dry,Clear,Dark,No Control
-365,43.73,-79.38,Dry,Clear,Daylight,No Control
-366,43.73,-79.35,Dry,Clear,Dark,No Control
-367,43.73,-79.34,Dry,Clear,Daylight,No Control
-368,43.73,-79.33,Dry,Clear,Daylight,No Control
-369,43.73,-79.3,Dry,Clear,Daylight,Traffic Signal
-370,43.73,-79.29,Dry,Clear,Daylight,No Control
-371,43.73,-79.28,Dry,Clear,Dark,No Control
-372,43.73,-79.27,Dry,Clear,Daylight,Traffic Signal
-373,43.73,-79.26,Dry,Clear,Daylight,No Control
-374,43.73,-79.25,Dry,Clear,Daylight,No Control
-375,43.73,-79.24,Dry,Clear,Daylight,Traffic Signal
-376,43.73,-79.23,Dry,Clear,Daylight,No Control
-377,43.73,-79.22,Dry,Clear,Daylight,No Control
-378,43.73,-79.21,Dry,Clear,Daylight,No Control
-379,43.74,-79.63,Dry,Clear,Daylight,No Control
-380,43.74,-79.62,Ice,Freezing Rain,Dark,No Control
-381,43.74,-79.61,Dry,Clear,Daylight,Traffic Signal
-382,43.74,-79.6,Dry,Clear,Daylight,Traffic Signal
-383,43.74,-79.59,Dry,Clear,Daylight,Traffic Signal
-384,43.74,-79.58,Dry,Clear,Daylight,No Control
-385,43.74,-79.57,Loose Snow,Snow,"Dark, artificial",No Control
-386,43.74,-79.56,Dry,Clear,Dark,No Control
-387,43.74,-79.55,Dry,Clear,"Dark, artificial",Traffic Signal
-388,43.74,-79.54,Dry,Clear,Dark,Traffic Signal
-389,43.74,-79.53,Ice,Strong wind,Daylight,Pedestrian Crossover
-390,43.74,-79.52,Dry,Clear,"Dark, artificial",No Control
-391,43.74,-79.51,Dry,Clear,Daylight,Traffic Signal
-392,43.74,-79.5,Dry,Clear,"Dark, artificial",No Control
-393,43.74,-79.49,Dry,Clear,Daylight,No Control
-394,43.74,-79.48,Dry,Clear,"Dark, artificial",Traffic Signal
-395,43.74,-79.46,Dry,Clear,Daylight,No Control
-396,43.74,-79.45,Dry,Clear,Dark,Traffic Signal
-397,43.74,-79.44,Dry,Clear,Dark,No Control
-398,43.74,-79.43,Dry,Clear,Dark,No Control
-399,43.74,-79.41,Dry,Clear,Daylight,No Control
-400,43.74,-79.4,Dry,Clear,Daylight,Traffic Signal
-401,43.74,-79.39,Dry,Clear,Dark,No Control
-402,43.74,-79.38,Dry,Clear,Daylight,Traffic Signal
-403,43.74,-79.37,Dry,Clear,Daylight,Traffic Signal
-404,43.74,-79.34,Dry,Clear,Daylight,No Control
-405,43.74,-79.33,Dry,Clear,Dark,No Control
-406,43.74,-79.32,Dry,Clear,Daylight,No Control
-407,43.74,-79.31,Dry,Clear,"Dark, artificial",Traffic Signal
-408,43.74,-79.3,Dry,Clear,Dark,No Control
-409,43.74,-79.29,Dry,Clear,Daylight,Traffic Signal
-410,43.74,-79.28,Dry,Clear,Dark,Traffic Signal
-411,43.74,-79.27,Dry,Clear,Daylight,Traffic Signal
-412,43.74,-79.26,Dry,Clear,"Dark, artificial",No Control
-413,43.74,-79.25,Dry,Clear,Daylight,Traffic Signal
-414,43.74,-79.24,Dry,Clear,Daylight,No Control
-415,43.74,-79.23,Dry,Clear,Daylight,Traffic Signal
-416,43.74,-79.22,Dry,Clear,Dark,No Control
-417,43.74,-79.21,Dry,Clear,Daylight,No Control
-418,43.74,-79.2,Dry,Clear,Daylight,No Control
-419,43.74,-79.19,Dry,Clear,Dark,No Control
-420,43.75,-79.63,Dry,Clear,Daylight,No Control
-421,43.75,-79.62,Dry,Clear,Dark,No Control
-422,43.75,-79.61,Dry,Clear,Daylight,Traffic Signal
-423,43.75,-79.6,Dry,Clear,"Dark, artificial",No Control
-424,43.75,-79.59,Dry,Clear,Daylight,No Control
-425,43.75,-79.58,Dry,Clear,Dark,Traffic Signal
-426,43.75,-79.57,Dry,Clear,Daylight,No Control
-427,43.75,-79.56,Dry,Clear,Daylight,No Control
-428,43.75,-79.55,Dry,Clear,Dark,No Control
-429,43.75,-79.54,Dry,Clear,Daylight,No Control
-430,43.75,-79.53,Dry,Clear,Daylight,Traffic Signal
-431,43.75,-79.52,Dry,Clear,Daylight,No Control
-432,43.75,-79.51,Dry,Clear,Daylight,No Control
-433,43.75,-79.5,Dry,Clear,"Dark, artificial",Traffic Signal
-434,43.75,-79.49,Dry,Clear,Daylight,Stop Sign
-435,43.75,-79.48,Dry,Clear,Dark,No Control
-436,43.75,-79.46,Dry,Clear,Daylight,Traffic Signal
-437,43.75,-79.45,Dry,Clear,Daylight,Traffic Signal
-438,43.75,-79.44,Dry,Clear,Daylight,No Control
-439,43.75,-79.43,Dry,Clear,Daylight,No Control
-440,43.75,-79.42,Dry,Clear,Dark,Traffic Signal
-441,43.75,-79.41,Dry,Clear,Daylight,Traffic Signal
-442,43.75,-79.4,Dry,Clear,Daylight,No Control
-443,43.75,-79.38,Dry,Clear,"Dark, artificial",No Control
-444,43.75,-79.37,Dry,Clear,Daylight,Traffic Signal
-445,43.75,-79.36,Dry,Clear,Dark,No Control
-446,43.75,-79.35,Dry,Clear,Daylight,Traffic Signal
-447,43.75,-79.34,Dry,Clear,Dark,No Control
-448,43.75,-79.33,Dry,Clear,Dark,Traffic Signal
-449,43.75,-79.32,Dry,Clear,Dark,No Control
-450,43.75,-79.31,Dry,Clear,Daylight,No Control
-451,43.75,-79.3,Dry,Clear,Daylight,No Control
-452,43.75,-79.29,Dry,Clear,Daylight,Traffic Signal
-453,43.75,-79.28,Dry,Clear,Dark,No Control
-454,43.75,-79.27,Dry,Clear,Daylight,No Control
-455,43.75,-79.26,Dry,Clear,Daylight,No Control
-456,43.75,-79.25,Dry,Clear,Daylight,No Control
-457,43.75,-79.24,Dry,Clear,"Dark, artificial",No Control
-458,43.75,-79.23,Dry,Clear,"Dark, artificial",Traffic Signal
-459,43.75,-79.22,Dry,Clear,Daylight,No Control
-460,43.75,-79.21,Dry,Clear,"Dark, artificial",No Control
-461,43.75,-79.2,Wet,Rain,Dark,No Control
-462,43.75,-79.19,Dry,Clear,Dark,Stop Sign
-463,43.75,-79.17,Dry,Clear,Daylight,No Control
-464,43.76,-79.59,Dry,Clear,Dark,No Control
-465,43.76,-79.58,Dry,Clear,Daylight,No Control
-466,43.76,-79.57,Dry,Clear,"Dark, artificial",No Control
-467,43.76,-79.56,Dry,Clear,Dark,No Control
-468,43.76,-79.55,Dry,Clear,Daylight,No Control
-469,43.76,-79.54,Dry,Clear,Dark,No Control
-470,43.76,-79.52,Dry,Clear,Daylight,No Control
-471,43.76,-79.51,Wet,Rain,"Dark, artificial",No Control
-472,43.76,-79.5,Dry,Clear,"Dark, artificial",No Control
-473,43.76,-79.49,Dry,Clear,Daylight,Traffic Signal
-474,43.76,-79.48,Dry,Clear,Daylight,Traffic Signal
-475,43.76,-79.47,Dry,Clear,Dark,Stop Sign
-476,43.76,-79.46,Dry,Clear,Daylight,Traffic Signal
-477,43.76,-79.45,Dry,Clear,Dark,No Control
-478,43.76,-79.44,Wet,Rain,Daylight,No Control
-479,43.76,-79.42,Dry,Clear,Daylight,No Control
-480,43.76,-79.41,Dry,Clear,Daylight,No Control
-481,43.76,-79.4,Dry,Clear,Dark,No Control
-482,43.76,-79.39,Dry,Clear,Daylight,No Control
-483,43.76,-79.38,Dry,Clear,Daylight,Traffic Signal
-484,43.76,-79.37,Dry,Clear,Dark,No Control
-485,43.76,-79.36,Dry,Clear,"Dark, artificial",No Control
-486,43.76,-79.35,Dry,Clear,Daylight,No Control
-487,43.76,-79.34,Dry,Clear,Dark,Traffic Signal
-488,43.76,-79.33,Dry,Clear,Daylight,No Control
-489,43.76,-79.32,Dry,Clear,Daylight,Traffic Signal
-490,43.76,-79.31,Dry,Clear,Daylight,No Control
-491,43.76,-79.3,Dry,Clear,Daylight,No Control
-492,43.76,-79.29,Dry,Clear,Dark,No Control
-493,43.76,-79.28,Dry,Clear,Daylight,Traffic Signal
-494,43.76,-79.27,Dry,Clear,Daylight,No Control
-495,43.76,-79.26,Dry,Clear,Daylight,No Control
-496,43.76,-79.25,Dry,Clear,Daylight,No Control
-497,43.76,-79.24,Dry,Clear,Dark,No Control
-498,43.76,-79.23,Dry,Clear,Dark,No Control
-499,43.76,-79.22,Dry,Clear,Daylight,Traffic Signal
-500,43.76,-79.21,Dry,Clear,Daylight,Traffic Signal
-501,43.76,-79.2,Dry,Clear,Daylight,No Control
-502,43.76,-79.19,Dry,Clear,Daylight,No Control
-503,43.76,-79.18,Dry,Clear,Daylight,No Control
-504,43.76,-79.17,Dry,Clear,Dark,No Control
-505,43.77,-79.54,Dry,Clear,Daylight,Traffic Signal
-506,43.77,-79.53,Dry,Clear,Dark,Traffic Signal
-507,43.77,-79.52,Dry,Clear,Daylight,No Control
-508,43.77,-79.51,Dry,Clear,Dark,No Control
-509,43.77,-79.5,Dry,Clear,Daylight,No Control
-510,43.77,-79.49,Dry,Clear,Dark,Traffic Signal
-511,43.77,-79.47,Dry,Clear,"Dark, artificial",Stop Sign
-512,43.77,-79.46,Dry,Clear,Daylight,Traffic Signal
-513,43.77,-79.45,Dry,Clear,"Dark, artificial",No Control
-514,43.77,-79.44,Dry,Clear,Daylight,Traffic Signal
-515,43.77,-79.43,Dry,Clear,Dark,Stop Sign
-516,43.77,-79.42,Dry,Clear,Daylight,No Control
-517,43.77,-79.41,Dry,Clear,Daylight,No Control
-518,43.77,-79.4,Dry,Clear,Dark,Stop Sign
-519,43.77,-79.39,Dry,Clear,"Dark, artificial",No Control
-520,43.77,-79.38,Dry,Clear,Daylight,No Control
-521,43.77,-79.37,Dry,Clear,Daylight,Stop Sign
-522,43.77,-79.36,Dry,Clear,"Dark, artificial",No Control
-523,43.77,-79.35,Dry,Clear,Daylight,Traffic Signal
-524,43.77,-79.34,Dry,Clear,Daylight,Traffic Signal
-525,43.77,-79.33,Dry,Clear,Daylight,No Control
-526,43.77,-79.32,Dry,Clear,Daylight,No Control
-527,43.77,-79.31,Dry,Clear,Daylight,No Control
-528,43.77,-79.3,Dry,Clear,Daylight,Traffic Signal
-529,43.77,-79.29,Wet,Rain,Dark,Traffic Signal
-530,43.77,-79.28,Dry,Clear,"Dark, artificial",Traffic Signal
-531,43.77,-79.27,Dry,Clear,Daylight,No Control
-532,43.77,-79.26,Dry,Clear,Daylight,Traffic Signal
-533,43.77,-79.25,Dry,Clear,Daylight,Traffic Signal
-534,43.77,-79.24,Dry,Clear,Daylight,Traffic Signal
-535,43.77,-79.23,Dry,Clear,Daylight,Traffic Signal
-536,43.77,-79.22,Dry,Clear,"Dark, artificial",Traffic Signal
-537,43.77,-79.21,Dry,Clear,Dark,No Control
-538,43.77,-79.2,Dry,Clear,Daylight,No Control
-539,43.77,-79.18,Dry,Clear,Daylight,No Control
-540,43.77,-79.17,Dry,Clear,Dark,No Control
-541,43.77,-79.16,Dry,Clear,Daylight,No Control
-542,43.77,-79.15,Dry,Clear,Dark,Stop Sign
-543,43.77,-79.14,Dry,Clear,Daylight,Traffic Signal
-544,43.77,-79.13,Dry,Clear,Daylight,No Control
-545,43.78,-79.49,Dry,Clear,Daylight,Traffic Signal
-546,43.78,-79.48,Dry,Clear,Dark,Traffic Signal
-547,43.78,-79.47,Wet,Clear,Dark,Traffic Signal
-548,43.78,-79.46,Dry,Clear,"Dark, artificial",Traffic Signal
-549,43.78,-79.45,Dry,Clear,Daylight,Traffic Signal
-550,43.78,-79.44,Dry,Clear,Daylight,No Control
-551,43.78,-79.43,Dry,Clear,Daylight,No Control
-552,43.78,-79.41,Dry,Clear,Daylight,No Control
-553,43.78,-79.4,Dry,Clear,"Dark, artificial",No Control
-554,43.78,-79.39,Dry,Clear,Daylight,No Control
-555,43.78,-79.38,Dry,Clear,Daylight,No Control
-556,43.78,-79.37,Dry,Clear,Dark,Traffic Signal
-557,43.78,-79.36,Dry,Clear,Daylight,No Control
-558,43.78,-79.35,Dry,Clear,Daylight,No Control
-559,43.78,-79.34,Dry,Clear,Daylight,Traffic Signal
-560,43.78,-79.33,Dry,Clear,Daylight,No Control
-561,43.78,-79.32,Dry,Clear,Daylight,Traffic Signal
-562,43.78,-79.31,Dry,Clear,Dark,No Control
-563,43.78,-79.3,Dry,Clear,Daylight,No Control
-564,43.78,-79.29,Dry,Clear,Daylight,No Control
-565,43.78,-79.28,Dry,Clear,Daylight,Traffic Signal
-566,43.78,-79.27,Dry,Clear,Daylight,No Control
-567,43.78,-79.26,Dry,Clear,Daylight,No Control
-568,43.78,-79.25,Dry,Clear,Daylight,Traffic Signal
-569,43.78,-79.24,Dry,Clear,Dark,No Control
-570,43.78,-79.23,Dry,Clear,Daylight,Traffic Signal
-571,43.78,-79.22,Dry,Clear,Dusk,No Control
-572,43.78,-79.21,Dry,Clear,Dark,No Control
-573,43.78,-79.2,Dry,Clear,Daylight,No Control
-574,43.78,-79.19,Wet,Rain,Daylight,No Control
-575,43.78,-79.18,Dry,Clear,Dark,Traffic Signal
-576,43.78,-79.17,Dry,Clear,Dark,No Control
-577,43.78,-79.16,Dry,Clear,Daylight,No Control
-578,43.78,-79.15,Dry,Clear,Daylight,No Control
-579,43.78,-79.14,Dry,Clear,Daylight,No Control
-580,43.78,-79.13,Dry,Clear,Daylight,No Control
-581,43.79,-79.45,Dry,Clear,Daylight,Traffic Signal
-582,43.79,-79.44,Dry,Clear,Daylight,No Control
-583,43.79,-79.43,Dry,Clear,Daylight,No Control
-584,43.79,-79.42,Dry,Clear,Daylight,Traffic Signal
-585,43.79,-79.41,Dry,Clear,Daylight,No Control
-586,43.79,-79.4,Dry,Clear,Daylight,No Control
-587,43.79,-79.39,Dry,Clear,Daylight,Traffic Signal
-588,43.79,-79.38,Dry,Clear,"Dark, artificial",No Control
-589,43.79,-79.37,Dry,Clear,Daylight,Stop Sign
-590,43.79,-79.36,Dry,Clear,Daylight,No Control
-591,43.79,-79.35,Dry,Clear,Daylight,Traffic Signal
-592,43.79,-79.34,Dry,Clear,Daylight,Traffic Signal
-593,43.79,-79.33,Dry,Clear,Daylight,Traffic Signal
-594,43.79,-79.32,Dry,Clear,Daylight,No Control
-595,43.79,-79.31,Dry,Clear,Daylight,Traffic Signal
-596,43.79,-79.3,Dry,Clear,Daylight,Traffic Signal
-597,43.79,-79.29,Dry,Clear,Daylight,No Control
-598,43.79,-79.28,Dry,Clear,Daylight,Traffic Signal
-599,43.79,-79.27,Dry,Clear,Daylight,No Control
-600,43.79,-79.26,Dry,Clear,Daylight,No Control
-601,43.79,-79.25,Dry,Clear,Daylight,No Control
-602,43.79,-79.24,Dry,Clear,Daylight,No Control
-603,43.79,-79.23,Dry,Clear,Daylight,Traffic Signal
-604,43.79,-79.22,Dry,Clear,Dark,No Control
-605,43.79,-79.21,Dry,Clear,Daylight,Traffic Signal
-606,43.79,-79.2,Dry,Clear,"Dark, artificial",No Control
-607,43.79,-79.19,Dry,Clear,"Dark, artificial",No Control
-608,43.79,-79.18,Dry,Clear,Daylight,No Control
-609,43.79,-79.17,Dry,Clear,Dark,No Control
-610,43.79,-79.15,Dry,Clear,Daylight,No Control
-611,43.79,-79.14,Dry,Clear,Daylight,Traffic Signal
-612,43.79,-79.13,Dry,Clear,Daylight,No Control
-613,43.79,-79.12,Wet,Snow,"Dark, artificial",No Control
-614,43.8,-79.4,Dry,Clear,Daylight,No Control
-615,43.8,-79.39,Dry,Clear,"Dark, artificial",No Control
-616,43.8,-79.38,Dry,Clear,"Dark, artificial",Traffic Signal
-617,43.8,-79.37,Dry,Clear,Daylight,No Control
-618,43.8,-79.36,Dry,Clear,Dark,No Control
-619,43.8,-79.35,Dry,Clear,Daylight,No Control
-620,43.8,-79.33,Dry,Clear,Dark,No Control
-621,43.8,-79.32,Wet,Clear,Daylight,No Control
-622,43.8,-79.31,Dry,Clear,Daylight,Traffic Signal
-623,43.8,-79.3,Dry,Clear,Daylight,No Control
-624,43.8,-79.29,Dry,Clear,Daylight,Traffic Signal
-625,43.8,-79.28,Dry,Clear,Daylight,No Control
-626,43.8,-79.27,Wet,Clear,Dark,No Control
-627,43.8,-79.26,Dry,Clear,Daylight,No Control
-628,43.8,-79.25,Dry,Clear,Daylight,Traffic Signal
-629,43.8,-79.24,Dry,Clear,"Dusk, artificial",No Control
-630,43.8,-79.23,Dry,Clear,"Dark, artificial",No Control
-631,43.8,-79.22,Dry,Clear,Daylight,Traffic Signal
-632,43.8,-79.21,Dry,Clear,Dark,No Control
-633,43.8,-79.2,Dry,Clear,Dark,Traffic Signal
-634,43.8,-79.19,Dry,Clear,Daylight,Traffic Signal
-635,43.8,-79.18,Dry,Clear,Dark,No Control
-636,43.8,-79.17,Dry,Clear,Daylight,Traffic Signal
-637,43.8,-79.16,Dry,Clear,Daylight,No Control
-638,43.8,-79.15,Dry,Clear,Daylight,No Control
-639,43.8,-79.14,Dry,Clear,"Dark, artificial",No Control
-640,43.81,-79.36,Wet,Clear,Daylight,Traffic Signal
-641,43.81,-79.35,Wet,Clear,Daylight,Traffic Signal
-642,43.81,-79.34,Dry,Clear,Daylight,No Control
-643,43.81,-79.33,Dry,Clear,Daylight,Traffic Signal
-644,43.81,-79.32,Dry,Clear,Daylight,Traffic Signal
-645,43.81,-79.31,Dry,Clear,Daylight,No Control
-646,43.81,-79.3,Dry,Clear,Daylight,No Control
-647,43.81,-79.29,Dry,Clear,Daylight,Traffic Signal
-648,43.81,-79.28,Dry,Clear,Daylight,No Control
-649,43.81,-79.27,Dry,Clear,Daylight,No Control
-650,43.81,-79.26,Dry,Clear,Daylight,Traffic Signal
-651,43.81,-79.25,Dry,Clear,Daylight,No Control
-652,43.81,-79.24,Dry,Clear,Daylight,Traffic Signal
-653,43.81,-79.23,Dry,Clear,Daylight,Traffic Signal
-654,43.81,-79.22,Dry,Clear,"Dark, artificial",No Control
-655,43.81,-79.21,Dry,Clear,"Dark, artificial",No Control
-656,43.81,-79.2,Dry,Clear,"Dark, artificial",No Control
-657,43.81,-79.16,Dry,Clear,Dark,No Control
-658,43.81,-79.15,Dry,Clear,Dark,No Control
-659,43.82,-79.32,Dry,Clear,Daylight,Traffic Signal
-660,43.82,-79.31,Dry,Clear,Daylight,Traffic Signal
-661,43.82,-79.3,Dry,Clear,Daylight,Traffic Signal
-662,43.82,-79.29,Dry,Clear,Daylight,Traffic Signal
-663,43.82,-79.28,Dry,Clear,Daylight,Traffic Signal
-664,43.82,-79.27,Dry,Clear,"Dark, artificial",No Control
-665,43.82,-79.26,Dry,Clear,Daylight,No Control
-666,43.82,-79.25,Dry,Clear,Dark,No Control
-667,43.82,-79.24,Dry,Clear,Dark,No Control
-668,43.82,-79.23,Dry,Clear,Daylight,No Control
-669,43.82,-79.22,Dry,Clear,Dark,No Control
-670,43.82,-79.19,Dry,Clear,Dark,No Control
-671,43.83,-79.27,Dry,Clear,Dark,Traffic Signal
-672,43.83,-79.26,Dry,Clear,Daylight,Traffic Signal
-673,43.83,-79.25,Dry,Clear,Daylight,Traffic Signal
-674,43.83,-79.24,Dry,Clear,Dark,Stop Sign
-675,43.83,-79.23,Dry,Clear,Dark,No Control
-676,43.83,-79.22,Dry,Clear,Daylight,No Control
-677,43.83,-79.18,Wet,Rain,Daylight,No Control
-678,43.83,-79.15,Wet,Clear,Daylight,Stop Sign
-679,43.84,-79.23,Dry,Clear,Daylight,No Control
-680,43.84,-79.22,Dry,Clear,Daylight,No Control
-681,43.84,-79.21,Ice,Clear,Dark,No Control
-682,43.84,-79.2,Dry,Clear,Daylight,Stop Sign
-683,43.84,-79.19,Dry,Clear,Dark,No Control
-684,43.85,-79.19,Wet,Clear,Daylight,No Control
-685,43.85,-79.18,Wet,Clear,Daylight,No Control
-686,43.85,-79.17,Dry,Clear,Daylight,No Control
-687,43.85,-79.16,Dry,Clear,Dark,No Control
+,LATITUDE,LONGITUDE,INVAGE,WARDNUM,RDSFCOND,VISIBILITY,LIGHT,TRAFFCTL,VEHTYPE,DRIVACT,DRIVCOND,SPEEDING,AG_DRIV,ALCOHOL,DISABILITY,REDLIGHT
+0,43.59,-79.54,20 to 24,3,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+1,43.59,-79.53,unknown,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+2,43.59,-79.52,30 to 34,3,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+3,43.59,-79.51,20 to 24,3,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+4,43.59,-79.5,40 to 44,3,Dry,Clear,Daylight,Traffic Signal,Pick Up Truck,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+5,43.6,-79.55,20 to 24,3,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Improper Turn,Had Been Drinking,<Null>,<Null>,<Null>,<Null>,<Null>
+6,43.6,-79.54,50 to 54,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+7,43.6,-79.53,25 to 29,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+8,43.6,-79.51,50 to 54,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+9,43.6,-79.5,unknown,3,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+10,43.6,-79.49,unknown,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+11,43.61,-79.56,30 to 34,3,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+12,43.61,-79.55,15 to 19,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+13,43.61,-79.54,unknown,3,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+14,43.61,-79.53,20 to 24,3,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+15,43.61,-79.52,20 to 24,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+16,43.61,-79.51,unknown,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+17,43.61,-79.5,25 to 29,3,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+18,43.61,-79.49,20 to 24,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+19,43.61,-79.48,20 to 24,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Unknown,<Null>,Yes,<Null>,<Null>,<Null>
+20,43.62,-79.56,15 to 19,"2,3",Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+21,43.62,-79.55,unknown,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+22,43.62,-79.54,30 to 34,3,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+23,43.62,-79.53,25 to 29,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Improper Turn,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+24,43.62,-79.52,20 to 24,3,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+25,43.62,-79.51,unknown,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+26,43.62,-79.5,20 to 24,3,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+27,43.62,-79.49,10 to 14,3,Dry,Clear,"Dark, artificial",No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+28,43.62,-79.48,35 to 39,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+29,43.62,-79.47,25 to 29,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+30,43.62,-79.42,40 to 44,10,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Lost control,Had Been Drinking,<Null>,<Null>,<Null>,<Null>,<Null>
+31,43.63,-79.58,60 to 64,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+32,43.63,-79.57,20 to 24,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+33,43.63,-79.56,20 to 24,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Improper Turn,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+34,43.63,-79.55,unknown,"2,3",Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+35,43.63,-79.54,30 to 34,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+36,43.63,-79.53,20 to 24,3,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+37,43.63,-79.52,20 to 24,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+38,43.63,-79.51,20 to 24,3,Dry,Clear,Daylight,No Control,Bicycle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+39,43.63,-79.5,15 to 19,3,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Exceeding Speed Limit,Fatigue,<Null>,<Null>,<Null>,<Null>,<Null>
+40,43.63,-79.48,25 to 29,3,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+41,43.63,-79.47,unknown,4,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+42,43.63,-79.46,20 to 24,4,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+43,43.63,-79.45,25 to 29,4,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+44,43.63,-79.44,25 to 29,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+45,43.63,-79.43,unknown,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+46,43.63,-79.42,unknown,10,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+47,43.63,-79.41,25 to 29,10,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+48,43.63,-79.4,unknown,10,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+49,43.63,-79.39,40 to 44,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+50,43.63,-79.38,45 to 49,10,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+51,43.63,-79.34,unknown,14,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+52,43.64,-79.57,50 to 54,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+53,43.64,-79.56,30 to 34,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+54,43.64,-79.55,80 to 84,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+55,43.64,-79.54,20 to 24,2,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Improper Turn,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+56,43.64,-79.53,unknown,3,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+57,43.64,-79.52,20 to 24,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+58,43.64,-79.51,20 to 24,3,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+59,43.64,-79.5,50 to 54,3,Dry,Clear,Daylight,Stop Sign,<Null>,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+60,43.64,-79.49,35 to 39,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+61,43.64,-79.48,20 to 24,4,Dry,Clear,Daylight,Traffic Signal,Motorcycle,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+62,43.64,-79.47,70 to 74,4,Dry,Clear,Daylight,Stop Sign,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+63,43.64,-79.45,35 to 39,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+64,43.64,-79.44,unknown,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+65,43.64,-79.43,unknown,4,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+66,43.64,-79.42,30 to 34,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+67,43.64,-79.41,50 to 54,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+68,43.64,-79.4,unknown,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+69,43.64,-79.39,unknown,10,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+70,43.64,-79.38,unknown,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+71,43.64,-79.37,unknown,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+72,43.64,-79.36,25 to 29,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+73,43.64,-79.35,25 to 29,10,Dry,Clear,Dark,No Control,Motorcycle,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+74,43.64,-79.34,25 to 29,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+75,43.64,-79.32,20 to 24,14,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+76,43.65,-79.6,30 to 34,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+77,43.65,-79.59,55 to 59,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+78,43.65,-79.58,25 to 29,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+79,43.65,-79.57,15 to 19,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+80,43.65,-79.56,55 to 59,2,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+81,43.65,-79.55,15 to 19,2,Dry,Clear,Daylight,No Control,Motorcycle,Disobeyed Traffic Control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+82,43.65,-79.54,20 to 24,2,Wet,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Had Been Drinking,<Null>,Yes,<Null>,<Null>,<Null>
+83,43.65,-79.53,unknown,"2,3",Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Unknown,<Null>,Yes,<Null>,<Null>,<Null>
+84,43.65,-79.52,15 to 19,2,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+85,43.65,-79.51,15 to 19,3,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+86,43.65,-79.5,50 to 54,3,Slush,Snow,Daylight,No Control,"Automobile, Station Wagon",Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+87,43.65,-79.49,45 to 49,3,Loose Snow,Rain,Daylight,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+88,43.65,-79.48,35 to 39,4,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+89,43.65,-79.47,30 to 34,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+90,43.65,-79.46,35 to 39,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+91,43.65,-79.45,unknown,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+92,43.65,-79.44,unknown,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+93,43.65,-79.43,unknown,9,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+94,43.65,-79.42,unknown,"9,11",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+95,43.65,-79.41,unknown,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+96,43.65,-79.4,25 to 29,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+97,43.65,-79.39,unknown,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+98,43.65,-79.38,unknown,10,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+99,43.65,-79.37,unknown,13,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+100,43.65,-79.36,45 to 49,13,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+101,43.65,-79.35,25 to 29,13,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+102,43.65,-79.34,unknown,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+103,43.65,-79.33,30 to 34,14,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+104,43.65,-79.32,unknown,14,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+105,43.66,-79.59,unknown,1,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+106,43.66,-79.58,unknown,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+107,43.66,-79.57,55 to 59,2,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Lost control,"Ability Impaired, Alcohol",<Null>,Yes,<Null>,<Null>,<Null>
+108,43.66,-79.54,15 to 19,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+109,43.66,-79.53,40 to 44,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+110,43.66,-79.52,45 to 49,2,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+111,43.66,-79.51,30 to 34,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+112,43.66,-79.5,unknown,5,Wet,Rain,Daylight,Stop Sign,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+113,43.66,-79.49,50 to 54,4,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+114,43.66,-79.48,50 to 54,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+115,43.66,-79.47,55 to 59,4,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+116,43.66,-79.46,40 to 44,4,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+117,43.66,-79.45,unknown,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+118,43.66,-79.44,40 to 44,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+119,43.66,-79.43,25 to 29,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+120,43.66,-79.42,unknown,"9,11",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+121,43.66,-79.41,unknown,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+122,43.66,-79.4,25 to 29,11,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+123,43.66,-79.39,40 to 44,11,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+124,43.66,-79.38,unknown,13,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+125,43.66,-79.37,unknown,13,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+126,43.66,-79.36,unknown,13,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+127,43.66,-79.35,unknown,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+128,43.66,-79.34,unknown,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+129,43.66,-79.33,30 to 34,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+130,43.66,-79.32,unknown,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+131,43.66,-79.31,unknown,19,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+132,43.66,-79.3,unknown,19,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+133,43.67,-79.59,20 to 24,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Disobeyed Traffic Control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+134,43.67,-79.57,45 to 49,1,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Other,"Ability Impaired, Alcohol Over .08",<Null>,<Null>,Yes,<Null>,<Null>
+135,43.67,-79.56,45 to 49,"1,2",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+136,43.67,-79.55,70 to 74,2,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+137,43.67,-79.54,20 to 24,2,Dry,Clear,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+138,43.67,-79.53,55 to 59,2,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+139,43.67,-79.52,35 to 39,2,Dry,Clear,Daylight,Traffic Signal,Truck - Open,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+140,43.67,-79.51,30 to 34,2,Dry,Clear,Dark,No Control,Motorcycle,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+141,43.67,-79.5,25 to 29,5,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+142,43.67,-79.49,50 to 54,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+143,43.67,-79.48,15 to 19,5,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+144,43.67,-79.47,unknown,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+145,43.67,-79.46,unknown,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+146,43.67,-79.45,unknown,9,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+147,43.67,-79.44,unknown,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+148,43.67,-79.43,unknown,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+149,43.67,-79.42,30 to 34,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+150,43.67,-79.41,20 to 24,11,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+151,43.67,-79.4,30 to 34,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+152,43.67,-79.39,unknown,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+153,43.67,-79.38,45 to 49,11,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+154,43.67,-79.37,60 to 64,13,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+155,43.67,-79.36,20 to 24,11,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+156,43.67,-79.35,unknown,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+157,43.67,-79.34,30 to 34,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+158,43.67,-79.33,50 to 54,14,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Other,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+159,43.67,-79.32,50 to 54,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+160,43.67,-79.31,40 to 44,"14,19",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+161,43.67,-79.3,50 to 54,19,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+162,43.67,-79.29,unknown,19,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+163,43.67,-79.28,25 to 29,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+164,43.67,-79.27,55 to 59,20,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Speed too Fast For Condition,Unknown,Yes,Yes,<Null>,<Null>,<Null>
+165,43.68,-79.59,50 to 54,1,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+166,43.68,-79.58,unknown,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+167,43.68,-79.56,25 to 29,"1,2",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Disobeyed Traffic Control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+168,43.68,-79.55,unknown,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+169,43.68,-79.54,30 to 34,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+170,43.68,-79.53,unknown,2,Wet,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+171,43.68,-79.52,25 to 29,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+172,43.68,-79.51,unknown,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+173,43.68,-79.5,20 to 24,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Improper Turn,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+174,43.68,-79.49,35 to 39,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+175,43.68,-79.48,unknown,5,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+176,43.68,-79.47,unknown,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+177,43.68,-79.46,30 to 34,"5,9",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+178,43.68,-79.45,0 to 4,9,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+179,43.68,-79.44,unknown,"9,12",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+180,43.68,-79.43,unknown,9,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+181,43.68,-79.42,30 to 34,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+182,43.68,-79.41,unknown,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Other,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+183,43.68,-79.4,25 to 29,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+184,43.68,-79.39,unknown,12,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+185,43.68,-79.38,15 to 19,11,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+186,43.68,-79.36,35 to 39,14,Dry,Clear,Dark,No Control,Motorcycle,Lost control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+187,43.68,-79.35,25 to 29,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+188,43.68,-79.34,70 to 74,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+189,43.68,-79.33,25 to 29,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+190,43.68,-79.32,unknown,14,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+191,43.68,-79.31,40 to 44,19,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+192,43.68,-79.3,unknown,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+193,43.68,-79.29,unknown,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+194,43.68,-79.28,15 to 19,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+195,43.68,-79.27,25 to 29,20,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+196,43.68,-79.26,30 to 34,20,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+197,43.69,-79.59,unknown,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+198,43.69,-79.58,15 to 19,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+199,43.69,-79.57,40 to 44,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+200,43.69,-79.56,20 to 24,"1,2",Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+201,43.69,-79.55,40 to 44,"1,2",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+202,43.69,-79.54,unknown,"1,2",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+203,43.69,-79.53,unknown,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+204,43.69,-79.52,50 to 54,2,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+205,43.69,-79.51,20 to 24,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+206,43.69,-79.5,unknown,5,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+207,43.69,-79.49,50 to 54,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+208,43.69,-79.48,40 to 44,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+209,43.69,-79.47,50 to 54,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+210,43.69,-79.46,unknown,5,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+211,43.69,-79.45,20 to 24,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+212,43.69,-79.44,unknown,"8,12",Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+213,43.69,-79.43,unknown,"8,12",Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+214,43.69,-79.42,unknown,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+215,43.69,-79.4,unknown,12,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+216,43.69,-79.39,30 to 34,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+217,43.69,-79.38,55 to 59,"12,15",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+218,43.69,-79.37,15 to 19,15,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,Yes,Yes,<Null>,<Null>,<Null>
+219,43.69,-79.36,30 to 34,"11,15",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Speed too Fast For Condition,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+220,43.69,-79.35,50 to 54,14,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+221,43.69,-79.34,40 to 44,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+222,43.69,-79.33,45 to 49,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+223,43.69,-79.32,55 to 59,"14,19",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+224,43.69,-79.31,50 to 54,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+225,43.69,-79.3,0 to 4,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+226,43.69,-79.29,50 to 54,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+227,43.69,-79.28,60 to 64,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+228,43.69,-79.27,25 to 29,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+229,43.69,-79.26,20 to 24,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+230,43.69,-79.25,15 to 19,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+231,43.7,-79.6,35 to 39,1,Slush,Freezing Rain,Dark,No Control,"Automobile, Station Wagon",Lost control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+232,43.7,-79.59,30 to 34,1,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+233,43.7,-79.58,35 to 39,1,Dry,Clear,Daylight,No Control,Motorcycle,Lost control,Normal,Yes,Yes,<Null>,<Null>,<Null>
+234,43.7,-79.57,20 to 24,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+235,43.7,-79.56,25 to 29,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+236,43.7,-79.55,25 to 29,1,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+237,43.7,-79.54,35 to 39,1,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+238,43.7,-79.53,15 to 19,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+239,43.7,-79.52,unknown,5,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+240,43.7,-79.51,30 to 34,5,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+241,43.7,-79.5,unknown,5,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+242,43.7,-79.49,unknown,5,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+243,43.7,-79.48,25 to 29,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+244,43.7,-79.47,unknown,5,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+245,43.7,-79.46,0 to 4,8,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+246,43.7,-79.45,25 to 29,8,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+247,43.7,-79.44,20 to 24,8,Wet,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+248,43.7,-79.43,unknown,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+249,43.7,-79.42,unknown,"8,12",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+250,43.7,-79.41,45 to 49,"8,12",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+251,43.7,-79.4,unknown,"8,12",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+252,43.7,-79.39,unknown,12,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+253,43.7,-79.38,unknown,"12,15",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+254,43.7,-79.37,25 to 29,15,Dry,Clear,Daylight,Pedestrian Crossover,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+255,43.7,-79.36,20 to 24,15,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+256,43.7,-79.35,45 to 49,15,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+257,43.7,-79.34,25 to 29,15,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+258,43.7,-79.33,50 to 54,14,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+259,43.7,-79.32,60 to 64,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Other,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+260,43.7,-79.31,65 to 69,19,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+261,43.7,-79.3,30 to 34,19,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+262,43.7,-79.29,unknown,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+263,43.7,-79.28,20 to 24,20,Wet,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+264,43.7,-79.27,unknown,20,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+265,43.7,-79.26,55 to 59,20,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+266,43.7,-79.25,20 to 24,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+267,43.7,-79.24,70 to 74,20,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+268,43.7,-79.23,20 to 24,20,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+269,43.71,-79.6,unknown,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+270,43.71,-79.59,55 to 59,1,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+271,43.71,-79.58,unknown,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+272,43.71,-79.57,50 to 54,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Improper Turn,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+273,43.71,-79.56,unknown,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+274,43.71,-79.55,50 to 54,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+275,43.71,-79.54,unknown,7,Wet,Rain,Daylight,No Control,Other,<Null>,<Null>,Yes,Yes,Yes,<Null>,<Null>
+276,43.71,-79.53,30 to 34,7,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+277,43.71,-79.52,75 to 79,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+278,43.71,-79.51,25 to 29,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+279,43.71,-79.5,55 to 59,5,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+280,43.71,-79.48,75 to 79,5,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Medical or Physical Disability,<Null>,<Null>,<Null>,Yes,<Null>
+281,43.71,-79.47,15 to 19,5,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+282,43.71,-79.46,25 to 29,8,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+283,43.71,-79.45,unknown,8,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+284,43.71,-79.44,30 to 34,8,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+285,43.71,-79.43,20 to 24,8,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+286,43.71,-79.42,55 to 59,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+287,43.71,-79.41,unknown,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+288,43.71,-79.4,15 to 19,"8,15",Dry,Clear,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+289,43.71,-79.39,50 to 54,"8,15",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+290,43.71,-79.38,25 to 29,15,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+291,43.71,-79.37,75 to 79,15,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+292,43.71,-79.36,20 to 24,15,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+293,43.71,-79.35,unknown,15,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+294,43.71,-79.33,unknown,16,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+295,43.71,-79.32,15 to 19,16,Dry,Clear,"Dark, artificial",No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+296,43.71,-79.3,35 to 39,19,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+297,43.71,-79.29,20 to 24,"19,20",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+298,43.71,-79.28,35 to 39,20,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+299,43.71,-79.27,25 to 29,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+300,43.71,-79.26,unknown,20,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+301,43.71,-79.25,unknown,20,Dry,Clear,Dark,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+302,43.71,-79.24,unknown,20,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+303,43.71,-79.23,15 to 19,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+304,43.72,-79.62,25 to 29,1,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Disobeyed Traffic Control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+305,43.72,-79.61,25 to 29,1,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+306,43.72,-79.6,15 to 19,1,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+307,43.72,-79.59,unknown,1,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+308,43.72,-79.58,65 to 69,1,Dry,Clear,Daylight,Traffic Signal,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+309,43.72,-79.57,25 to 29,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+310,43.72,-79.56,25 to 29,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+311,43.72,-79.55,20 to 24,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+312,43.72,-79.54,20 to 24,1,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+313,43.72,-79.53,50 to 54,7,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+314,43.72,-79.52,75 to 79,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+315,43.72,-79.51,35 to 39,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+316,43.72,-79.5,unknown,"7,6",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+317,43.72,-79.49,20 to 24,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+318,43.72,-79.48,unknown,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+319,43.72,-79.47,30 to 34,6,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+320,43.72,-79.46,30 to 34,8,Wet,Snow,Daylight,No Control,"Automobile, Station Wagon",Speed too Fast For Condition,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+321,43.72,-79.45,35 to 39,8,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+322,43.72,-79.44,20 to 24,8,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+323,43.72,-79.43,25 to 29,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+324,43.72,-79.42,40 to 44,8,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+325,43.72,-79.41,35 to 39,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+326,43.72,-79.4,20 to 24,"8,15",Dry,Clear,Daylight,Traffic Signal,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+327,43.72,-79.39,20 to 24,15,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+328,43.72,-79.38,65 to 69,15,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+329,43.72,-79.35,70 to 74,15,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Other,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+330,43.72,-79.34,35 to 39,16,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+331,43.72,-79.33,30 to 34,16,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+332,43.72,-79.32,35 to 39,16,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+333,43.72,-79.31,unknown,16,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+334,43.72,-79.3,unknown,"16,20",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+335,43.72,-79.29,30 to 34,"21,20",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+336,43.72,-79.28,25 to 29,20,Dry,Clear,Daylight,Traffic Signal,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+337,43.72,-79.27,15 to 19,20,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+338,43.72,-79.26,20 to 24,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+339,43.72,-79.25,30 to 34,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+340,43.72,-79.24,20 to 24,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+341,43.72,-79.23,30 to 34,20,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+342,43.72,-79.22,30 to 34,20,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Lost control,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+343,43.73,-79.62,unknown,1,Ice,Freezing Rain,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+344,43.73,-79.61,0 to 4,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+345,43.73,-79.6,60 to 64,1,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+346,43.73,-79.59,unknown,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+347,43.73,-79.58,65 to 69,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+348,43.73,-79.57,20 to 24,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+349,43.73,-79.56,20 to 24,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+350,43.73,-79.55,20 to 24,1,Dry,Clear,"Dark, artificial",No Control,Delivery Van,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+351,43.73,-79.54,40 to 44,7,Dry,Clear,Daylight,Stop Sign,Pick Up Truck,Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+352,43.73,-79.53,55 to 59,7,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Lost control,"Ability Impaired, Alcohol Over .08",<Null>,Yes,<Null>,<Null>,<Null>
+353,43.73,-79.52,25 to 29,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+354,43.73,-79.51,40 to 44,"7,6",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Lost control,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+355,43.73,-79.5,20 to 24,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Disobeyed Traffic Control,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+356,43.73,-79.48,35 to 39,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Unknown,Yes,Yes,<Null>,<Null>,<Null>
+357,43.73,-79.46,unknown,6,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+358,43.73,-79.45,20 to 24,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+359,43.73,-79.44,25 to 29,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+360,43.73,-79.43,35 to 39,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+361,43.73,-79.42,60 to 64,8,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+362,43.73,-79.41,60 to 64,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+363,43.73,-79.4,20 to 24,"8,15",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+364,43.73,-79.39,20 to 24,15,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+365,43.73,-79.38,30 to 34,15,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+366,43.73,-79.35,85 to 89,"15,16",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+367,43.73,-79.34,35 to 39,16,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+368,43.73,-79.33,50 to 54,16,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+369,43.73,-79.3,25 to 29,"16,21",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+370,43.73,-79.29,25 to 29,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+371,43.73,-79.28,unknown,21,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+372,43.73,-79.27,25 to 29,21,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+373,43.73,-79.26,20 to 24,"21,20",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+374,43.73,-79.25,unknown,"21,20",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+375,43.73,-79.24,unknown,"21,20",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+376,43.73,-79.23,55 to 59,"21,20",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+377,43.73,-79.22,35 to 39,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+378,43.73,-79.21,45 to 49,20,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+379,43.74,-79.63,unknown,1,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+380,43.74,-79.62,40 to 44,1,Ice,Freezing Rain,Dark,No Control,"Automobile, Station Wagon",Driving Properly,"Ability Impaired, Alcohol",<Null>,<Null>,<Null>,<Null>,<Null>
+381,43.74,-79.61,60 to 64,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+382,43.74,-79.6,35 to 39,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Improper Turn,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+383,43.74,-79.59,30 to 34,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+384,43.74,-79.58,unknown,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+385,43.74,-79.57,35 to 39,7,Loose Snow,Snow,"Dark, artificial",No Control,Pick Up Truck,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+386,43.74,-79.56,45 to 49,7,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+387,43.74,-79.55,unknown,7,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+388,43.74,-79.54,50 to 54,7,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+389,43.74,-79.53,unknown,7,Ice,Strong wind,Daylight,Pedestrian Crossover,Other,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+390,43.74,-79.52,20 to 24,7,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+391,43.74,-79.51,40 to 44,7,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+392,43.74,-79.5,20 to 24,"7,6",Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+393,43.74,-79.49,40 to 44,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Unknown,<Null>,Yes,<Null>,<Null>,<Null>
+394,43.74,-79.48,40 to 44,6,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+395,43.74,-79.46,25 to 29,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+396,43.74,-79.45,20 to 24,6,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+397,43.74,-79.44,unknown,6,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+398,43.74,-79.43,55 to 59,6,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+399,43.74,-79.41,50 to 54,8,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Other,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+400,43.74,-79.4,unknown,"8,15",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+401,43.74,-79.39,10 to 14,15,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+402,43.74,-79.38,unknown,15,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,Yes
+403,43.74,-79.37,unknown,15,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+404,43.74,-79.34,45 to 49,16,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+405,43.74,-79.33,60 to 64,16,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+406,43.74,-79.32,40 to 44,16,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,"Ability Impaired, Alcohol Over .08",Yes,Yes,<Null>,<Null>,<Null>
+407,43.74,-79.31,20 to 24,16,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+408,43.74,-79.3,40 to 44,21,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+409,43.74,-79.29,25 to 29,21,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+410,43.74,-79.28,50 to 54,21,Dry,Clear,Dark,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+411,43.74,-79.27,20 to 24,21,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+412,43.74,-79.26,25 to 29,21,Dry,Clear,"Dark, artificial",No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+413,43.74,-79.25,15 to 19,21,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+414,43.74,-79.24,unknown,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+415,43.74,-79.23,20 to 24,"21,20",Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+416,43.74,-79.22,50 to 54,"20,24",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+417,43.74,-79.21,unknown,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+418,43.74,-79.2,15 to 19,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+419,43.74,-79.19,70 to 74,24,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,"Ability Impaired, Alcohol",<Null>,Yes,Yes,<Null>,<Null>
+420,43.75,-79.63,25 to 29,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Exceeding Speed Limit,Fatigue,<Null>,Yes,<Null>,<Null>,<Null>
+421,43.75,-79.62,20 to 24,1,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+422,43.75,-79.61,50 to 54,1,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+423,43.75,-79.6,25 to 29,1,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+424,43.75,-79.59,unknown,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+425,43.75,-79.58,25 to 29,1,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+426,43.75,-79.57,25 to 29,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+427,43.75,-79.56,unknown,7,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+428,43.75,-79.55,40 to 44,7,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+429,43.75,-79.54,unknown,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+430,43.75,-79.53,10 to 14,7,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+431,43.75,-79.52,unknown,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+432,43.75,-79.51,35 to 39,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+433,43.75,-79.5,20 to 24,7,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,Yes,Yes,<Null>,<Null>,<Null>
+434,43.75,-79.49,30 to 34,6,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+435,43.75,-79.48,75 to 79,"7,6",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+436,43.75,-79.46,25 to 29,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+437,43.75,-79.45,20 to 24,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+438,43.75,-79.44,unknown,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+439,43.75,-79.43,15 to 19,6,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+440,43.75,-79.42,25 to 29,18,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+441,43.75,-79.41,45 to 49,18,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+442,43.75,-79.4,unknown,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+443,43.75,-79.38,20 to 24,15,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+444,43.75,-79.37,10 to 14,15,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+445,43.75,-79.36,45 to 49,"15,16",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+446,43.75,-79.35,10 to 14,16,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+447,43.75,-79.34,50 to 54,16,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+448,43.75,-79.33,40 to 44,16,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+449,43.75,-79.32,25 to 29,16,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+450,43.75,-79.31,unknown,"16,21",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+451,43.75,-79.3,30 to 34,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+452,43.75,-79.29,35 to 39,21,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+453,43.75,-79.28,55 to 59,21,Dry,Clear,Dark,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+454,43.75,-79.27,15 to 19,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Disobeyed Traffic Control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+455,43.75,-79.26,unknown,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+456,43.75,-79.25,25 to 29,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+457,43.75,-79.24,unknown,"21,24",Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+458,43.75,-79.23,45 to 49,24,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Disobeyed Traffic Control,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+459,43.75,-79.22,35 to 39,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+460,43.75,-79.21,15 to 19,24,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+461,43.75,-79.2,unknown,24,Wet,Rain,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+462,43.75,-79.19,unknown,24,Dry,Clear,Dark,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+463,43.75,-79.17,60 to 64,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+464,43.76,-79.59,25 to 29,1,Dry,Clear,Dark,No Control,<Null>,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+465,43.76,-79.58,25 to 29,1,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+466,43.76,-79.57,25 to 29,7,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+467,43.76,-79.56,55 to 59,1,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+468,43.76,-79.55,40 to 44,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+469,43.76,-79.54,35 to 39,7,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+470,43.76,-79.52,10 to 14,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+471,43.76,-79.51,25 to 29,7,Wet,Rain,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+472,43.76,-79.5,15 to 19,7,Dry,Clear,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+473,43.76,-79.49,unknown,"7,6",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+474,43.76,-79.48,unknown,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+475,43.76,-79.47,45 to 49,6,Dry,Clear,Dark,Stop Sign,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+476,43.76,-79.46,unknown,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+477,43.76,-79.45,50 to 54,6,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+478,43.76,-79.44,65 to 69,"6,18",Wet,Rain,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+479,43.76,-79.42,15 to 19,18,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+480,43.76,-79.41,unknown,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+481,43.76,-79.4,30 to 34,18,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+482,43.76,-79.39,75 to 79,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Other,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+483,43.76,-79.38,50 to 54,"18,17",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+484,43.76,-79.37,40 to 44,17,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+485,43.76,-79.36,25 to 29,"15,16",Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+486,43.76,-79.35,45 to 49,16,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+487,43.76,-79.34,30 to 34,17,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+488,43.76,-79.33,45 to 49,16,Dry,Clear,Daylight,No Control,Motorcycle,Following too Close,Other,<Null>,Yes,<Null>,<Null>,<Null>
+489,43.76,-79.32,20 to 24,16,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+490,43.76,-79.31,25 to 29,"16,21",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+491,43.76,-79.3,30 to 34,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+492,43.76,-79.29,50 to 54,21,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+493,43.76,-79.28,unknown,21,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+494,43.76,-79.27,30 to 34,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+495,43.76,-79.26,45 to 49,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Other,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+496,43.76,-79.25,15 to 19,21,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+497,43.76,-79.24,40 to 44,"21,24",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+498,43.76,-79.23,20 to 24,24,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+499,43.76,-79.22,40 to 44,24,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+500,43.76,-79.21,unknown,24,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+501,43.76,-79.2,20 to 24,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+502,43.76,-79.19,15 to 19,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+503,43.76,-79.18,unknown,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+504,43.76,-79.17,20 to 24,25,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+505,43.77,-79.54,10 to 14,7,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+506,43.77,-79.53,20 to 24,7,Dry,Clear,Dark,Traffic Signal,Motorcycle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+507,43.77,-79.52,unknown,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+508,43.77,-79.51,55 to 59,7,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+509,43.77,-79.5,20 to 24,7,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+510,43.77,-79.49,15 to 19,"7,6",Dry,Clear,Dark,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+511,43.77,-79.47,50 to 54,6,Dry,Clear,"Dark, artificial",Stop Sign,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+512,43.77,-79.46,25 to 29,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+513,43.77,-79.45,10 to 14,6,Dry,Clear,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+514,43.77,-79.44,unknown,"6,18",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+515,43.77,-79.43,20 to 24,18,Dry,Clear,Dark,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+516,43.77,-79.42,25 to 29,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+517,43.77,-79.41,35 to 39,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+518,43.77,-79.4,unknown,18,Dry,Clear,Dark,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+519,43.77,-79.39,40 to 44,"18,17",Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+520,43.77,-79.38,55 to 59,"18,17",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+521,43.77,-79.37,75 to 79,17,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+522,43.77,-79.36,50 to 54,17,Dry,Clear,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+523,43.77,-79.35,45 to 49,17,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+524,43.77,-79.34,50 to 54,17,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+525,43.77,-79.33,50 to 54,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+526,43.77,-79.32,unknown,"17,22",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+527,43.77,-79.31,30 to 34,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+528,43.77,-79.3,70 to 74,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+529,43.77,-79.29,25 to 29,22,Wet,Rain,Dark,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+530,43.77,-79.28,40 to 44,21,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+531,43.77,-79.27,25 to 29,21,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+532,43.77,-79.26,20 to 24,21,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+533,43.77,-79.25,20 to 24,"21,24",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+534,43.77,-79.24,50 to 54,24,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+535,43.77,-79.23,60 to 64,24,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+536,43.77,-79.22,20 to 24,24,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+537,43.77,-79.21,25 to 29,24,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Lost control,Unknown,<Null>,Yes,<Null>,<Null>,<Null>
+538,43.77,-79.2,40 to 44,24,Dry,Clear,Daylight,No Control,Motorcycle,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+539,43.77,-79.18,20 to 24,"24,25",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+540,43.77,-79.17,35 to 39,25,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+541,43.77,-79.16,20 to 24,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+542,43.77,-79.15,20 to 24,25,Dry,Clear,Dark,Stop Sign,"Automobile, Station Wagon",Disobeyed Traffic Control,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+543,43.77,-79.14,40 to 44,25,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+544,43.77,-79.13,70 to 74,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+545,43.78,-79.49,unknown,"7,6",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+546,43.78,-79.48,unknown,6,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+547,43.78,-79.47,20 to 24,6,Wet,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+548,43.78,-79.46,25 to 29,6,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+549,43.78,-79.45,unknown,6,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+550,43.78,-79.44,45 to 49,"6,18",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+551,43.78,-79.43,35 to 39,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+552,43.78,-79.41,unknown,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+553,43.78,-79.4,unknown,18,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+554,43.78,-79.39,unknown,"18,17",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+555,43.78,-79.38,60 to 64,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+556,43.78,-79.37,30 to 34,17,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+557,43.78,-79.36,50 to 54,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+558,43.78,-79.35,20 to 24,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+559,43.78,-79.34,25 to 29,17,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+560,43.78,-79.33,50 to 54,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+561,43.78,-79.32,70 to 74,"17,22",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Disobeyed Traffic Control,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+562,43.78,-79.31,unknown,22,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+563,43.78,-79.3,unknown,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+564,43.78,-79.29,unknown,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+565,43.78,-79.28,unknown,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+566,43.78,-79.27,45 to 49,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+567,43.78,-79.26,unknown,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+568,43.78,-79.25,60 to 64,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+569,43.78,-79.24,20 to 24,23,Dry,Clear,Dark,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+570,43.78,-79.23,20 to 24,24,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+571,43.78,-79.22,55 to 59,24,Dry,Clear,Dusk,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+572,43.78,-79.21,unknown,24,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+573,43.78,-79.2,50 to 54,24,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+574,43.78,-79.19,60 to 64,"24,25",Wet,Rain,Daylight,No Control,"Automobile, Station Wagon",Disobeyed Traffic Control,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+575,43.78,-79.18,15 to 19,25,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+576,43.78,-79.17,30 to 34,25,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,Had Been Drinking,<Null>,Yes,<Null>,<Null>,<Null>
+577,43.78,-79.16,40 to 44,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+578,43.78,-79.15,unknown,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+579,43.78,-79.14,20 to 24,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+580,43.78,-79.13,15 to 19,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+581,43.79,-79.45,15 to 19,6,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+582,43.79,-79.44,unknown,"6,18",Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+583,43.79,-79.43,5 to 9,18,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+584,43.79,-79.42,unknown,18,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+585,43.79,-79.41,25 to 29,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+586,43.79,-79.4,unknown,18,Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+587,43.79,-79.39,20 to 24,"18,17",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+588,43.79,-79.38,25 to 29,17,Dry,Clear,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+589,43.79,-79.37,20 to 24,17,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+590,43.79,-79.36,20 to 24,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+591,43.79,-79.35,75 to 79,17,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+592,43.79,-79.34,45 to 49,17,Dry,Clear,Daylight,Traffic Signal,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+593,43.79,-79.33,unknown,"17,22",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+594,43.79,-79.32,45 to 49,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+595,43.79,-79.31,65 to 69,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+596,43.79,-79.3,55 to 59,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+597,43.79,-79.29,30 to 34,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+598,43.79,-79.28,25 to 29,"22,23",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+599,43.79,-79.27,70 to 74,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+600,43.79,-79.26,20 to 24,23,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+601,43.79,-79.25,60 to 64,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+602,43.79,-79.24,unknown,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+603,43.79,-79.23,25 to 29,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+604,43.79,-79.22,unknown,23,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+605,43.79,-79.21,20 to 24,"23,25",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+606,43.79,-79.2,20 to 24,25,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Improper Turn,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+607,43.79,-79.19,45 to 49,25,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+608,43.79,-79.18,20 to 24,25,Dry,Clear,Daylight,No Control,Motorcycle,Improper Passing,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+609,43.79,-79.17,40 to 44,25,Dry,Clear,Dark,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+610,43.79,-79.15,30 to 34,25,Dry,Clear,Daylight,No Control,Motorcycle,Exceeding Speed Limit,Normal,Yes,Yes,<Null>,<Null>,<Null>
+611,43.79,-79.14,unknown,25,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+612,43.79,-79.13,75 to 79,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Medical or Physical Disability,<Null>,<Null>,<Null>,Yes,<Null>
+613,43.79,-79.12,unknown,25,Wet,Snow,"Dark, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+614,43.8,-79.4,25 to 29,18,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+615,43.8,-79.39,20 to 24,18,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+616,43.8,-79.38,60 to 64,17,Dry,Clear,"Dark, artificial",Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+617,43.8,-79.37,40 to 44,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+618,43.8,-79.36,0 to 4,17,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+619,43.8,-79.35,45 to 49,17,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+620,43.8,-79.33,unknown,22,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+621,43.8,-79.32,25 to 29,22,Wet,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+622,43.8,-79.31,20 to 24,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+623,43.8,-79.3,25 to 29,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+624,43.8,-79.29,20 to 24,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+625,43.8,-79.28,unknown,"22,23",Dry,Clear,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+626,43.8,-79.27,20 to 24,23,Wet,Clear,Dark,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+627,43.8,-79.26,25 to 29,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+628,43.8,-79.25,25 to 29,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+629,43.8,-79.24,35 to 39,<Null>,Dry,Clear,"Dusk, artificial",No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+630,43.8,-79.23,30 to 34,23,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+631,43.8,-79.22,25 to 29,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+632,43.8,-79.21,20 to 24,"23,25",Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+633,43.8,-79.2,20 to 24,25,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+634,43.8,-79.19,50 to 54,25,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+635,43.8,-79.18,20 to 24,25,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+636,43.8,-79.17,55 to 59,25,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+637,43.8,-79.16,35 to 39,25,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+638,43.8,-79.15,50 to 54,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+639,43.8,-79.14,50 to 54,25,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+640,43.81,-79.36,25 to 29,17,Wet,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Disobeyed Traffic Control,<Null>,<Null>,Yes,<Null>,<Null>,Yes
+641,43.81,-79.35,50 to 54,17,Wet,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+642,43.81,-79.34,75 to 79,17,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+643,43.81,-79.33,35 to 39,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+644,43.81,-79.32,60 to 64,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+645,43.81,-79.31,35 to 39,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+646,43.81,-79.3,0 to 4,22,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+647,43.81,-79.29,50 to 54,"22,23",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+648,43.81,-79.28,15 to 19,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+649,43.81,-79.27,35 to 39,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+650,43.81,-79.26,35 to 39,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+651,43.81,-79.25,15 to 19,23,Dry,Clear,Daylight,No Control,Motorcycle,<Null>,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+652,43.81,-79.24,25 to 29,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+653,43.81,-79.23,40 to 44,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Lost control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+654,43.81,-79.22,25 to 29,"23,25",Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Unknown,<Null>,<Null>,<Null>,<Null>,<Null>
+655,43.81,-79.21,60 to 64,25,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Lost control,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+656,43.81,-79.2,40 to 44,25,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+657,43.81,-79.16,20 to 24,25,Dry,Clear,Dark,No Control,Motorcycle,Lost control,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+658,43.81,-79.15,45 to 49,25,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+659,43.82,-79.32,30 to 34,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Disobeyed Traffic Control,Inattentive,<Null>,Yes,<Null>,<Null>,Yes
+660,43.82,-79.31,unknown,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+661,43.82,-79.3,45 to 49,22,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",Failed to Yield Right of Way,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+662,43.82,-79.29,unknown,"22,23",Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+663,43.82,-79.28,unknown,23,Dry,Clear,Daylight,Traffic Signal,"Automobile, Station Wagon",<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+664,43.82,-79.27,unknown,23,Dry,Clear,"Dark, artificial",No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+665,43.82,-79.26,55 to 59,23,Dry,Clear,Daylight,No Control,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+666,43.82,-79.25,15 to 19,23,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+667,43.82,-79.24,20 to 24,23,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+668,43.82,-79.23,25 to 29,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+669,43.82,-79.22,15 to 19,25,Dry,Clear,Dark,No Control,Other,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+670,43.82,-79.19,20 to 24,25,Dry,Clear,Dark,No Control,Motorcycle,Lost control,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+671,43.83,-79.27,25 to 29,23,Dry,Clear,Dark,Traffic Signal,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+672,43.83,-79.26,40 to 44,23,Dry,Clear,Daylight,Traffic Signal,<Null>,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+673,43.83,-79.25,unknown,23,Dry,Clear,Daylight,Traffic Signal,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+674,43.83,-79.24,20 to 24,23,Dry,Clear,Dark,Stop Sign,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+675,43.83,-79.23,0 to 4,23,Dry,Clear,Dark,No Control,Municipal Transit Bus (TTC),<Null>,<Null>,<Null>,<Null>,<Null>,<Null>,<Null>
+676,43.83,-79.22,20 to 24,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+677,43.83,-79.18,unknown,25,Wet,Rain,Daylight,No Control,Other,<Null>,<Null>,<Null>,Yes,<Null>,<Null>,<Null>
+678,43.83,-79.15,25 to 29,25,Wet,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Failed to Yield Right of Way,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+679,43.84,-79.23,45 to 49,23,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Inattentive,<Null>,<Null>,<Null>,<Null>,<Null>
+680,43.84,-79.22,35 to 39,25,Dry,Clear,Daylight,No Control,"Automobile, Station Wagon",Following too Close,Inattentive,<Null>,Yes,<Null>,<Null>,<Null>
+681,43.84,-79.21,50 to 54,25,Ice,Clear,Dark,No Control,"Automobile, Station Wagon",Speed too Fast For Condition,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
+682,43.84,-79.2,35 to 39,25,Dry,Clear,Daylight,Stop Sign,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+683,43.84,-79.19,20 to 24,25,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+684,43.85,-79.19,45 to 49,25,Wet,Clear,Daylight,No Control,"Automobile, Station Wagon",Driving Properly,Normal,<Null>,<Null>,<Null>,<Null>,<Null>
+685,43.85,-79.18,60 to 64,25,Wet,Clear,Daylight,No Control,Other,<Null>,<Null>,Yes,Yes,<Null>,<Null>,<Null>
+686,43.85,-79.17,45 to 49,25,Dry,Clear,Daylight,No Control,Motorcycle,Driving Properly,Normal,<Null>,Yes,<Null>,<Null>,<Null>
+687,43.85,-79.16,15 to 19,25,Dry,Clear,Dark,No Control,"Automobile, Station Wagon",Lost control,Inattentive,Yes,Yes,<Null>,<Null>,<Null>
