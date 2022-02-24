@@ -1,0 +1,4 @@
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-015-0035-y
+
+Clustering helps remove heterogeneity. General rules for each scenario.
+Using cluster analysis as a preliminary task can group the data into different homogeneous segments.

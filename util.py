@@ -50,3 +50,29 @@ def vehc(x):
     if x != 'Other':
         return 'Large-size Vehicle'
     return x
+
+def daygroup(hour):
+    if hour >= 6 and hour < 10:
+        return "Morning"
+    elif hour >= 10 and hour < 12:
+        return "Day"
+    elif hour >= 12 and hour < 14:
+        return "Lunch"
+    elif hour >= 14 and hour < 16:
+        return "Afternoon"
+    elif hour >= 16 and hour < 18:
+        return "Evening"
+    elif hour >= 18 and hour < 22:
+        return "Late Evening"
+    else:
+        return "Night"
+    
+def seasons(month):
+    if month in ('March', 'April', 'May'):
+        return 'Spring'
+    if month in ('June', 'July', 'August'):
+        return 'Summer'
+    if month in ('September', 'October', 'November'):
+        return 'Fall'
+    if month in ('December', 'January', 'February'):
+        return 'Winter'
