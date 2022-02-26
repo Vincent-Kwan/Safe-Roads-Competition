@@ -35,8 +35,19 @@ def actc(x):
         return 'Speeding'
     return x
 
+def manc(x):
+    if x in ('Turning Right', 'Turning Left', 'Making U Turn'):
+        return 'Turning'
+    if x in ('Stopped', 'Slowing or Stopping', 'Parked', 'Disabled'):
+        return 'Stopped/Slowing/Parked/Disabled'
+    if x in ('Changing Lanes', 'Merging'):
+        return 'Lane Change/Merge'
+    if x in ('Pulling Away from Shoulder or Curb', 'Pulling Onto Shoulder or towardCurb'):
+        return 'Shoulder/Curb Related Action'
+    return x
+
 def condc(x):
-    if x in ('Ability Impaired, Alcohol', 'Ability Impaired, Alcohol Over .08', 'Had Been Drinking', 'Ability Impaired, Drugs'):
+    if x in ('Ability Impaired, Alcohol', 'Ability Impaired, Alcohol Over .08', 'Had Been Drinking', 'Ability Impaired, Drugs', 'Ability Impaired, Alcohol Over .80'):
         return 'Ability Impaired (Drugs/Alcohol)'
     return x
 
