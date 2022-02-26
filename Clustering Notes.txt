@@ -3,5 +3,7 @@ https://journalofbigdata.springeropen.com/articles/10.1186/s40537-015-0035-y
 Clustering helps remove heterogeneity. General rules for each scenario.
 Using cluster analysis as a preliminary task can group the data into different homogeneous segments.
 
+Visualize each cluster on the map - this will show us how these clustered personas die.
+
 
 https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/

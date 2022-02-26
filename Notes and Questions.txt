@@ -1,6 +1,17 @@
 Question:
 1. Interaction terms b/w variables - for e.g. light and hour/time
 2. pilot models testing few predictors at a time.
+3. Use nbviewer to view interactive notebooks. Simply plug in the URL of the notebook from github.
+https://nbviewer.org/
+4. This query waS used to generate the Road Impediments dataset 
+SELECT ROUND(Latitude, 3) As Latitude, ROUND(Longitude, 3) as Longitude, AVG(PercentOfVehicles) as PercentOfVehicles, 
+AVG(AvgAcceleration) as AvgAcceleration, AVG(PercentCar) as PercentCar, AVG(PercentMPV) as PercentMPV, AVG(PercentLDT) as PercentLDT, AVG(PercentMDT) as PercentMDT, AVG(PercentHDT) as PercentHDT, AVG(PercentOther) as PercentOther
+FROM `geotab-public-intelligence.UrbanInfrastructure.RoadImpediments`
+WHERE City = 'Toronto'
+GROUP BY ROUND(Latitude, 3), ROUND(Longitude, 3);
+5. Data is being counted for long and lat rounded to 3 decimal places, because if it is done for the EXACT location of accidents 
+we will have a very sparse dataset.
+
 
 Total - 16,860 
 Kids (0-19) - 1164 records
