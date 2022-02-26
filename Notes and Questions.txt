@@ -11,7 +11,10 @@ WHERE City = 'Toronto'
 GROUP BY ROUND(Latitude, 3), ROUND(Longitude, 3);
 5. Data is being counted for long and lat rounded to 3 decimal places, because if it is done for the EXACT location of accidents 
 we will have a very sparse dataset.
-
+6. Use this to show the truncate/round to 3 degrees decision.
+http://wiki.gis.com/wiki/index.php/Decimal_degrees
+7. For the Heatmap, use this to compare traffic safety measures put in place:
+https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/vision-zero/safety-measures-and-mapping/
 
 Total - 16,860 
 Kids (0-19) - 1164 records
