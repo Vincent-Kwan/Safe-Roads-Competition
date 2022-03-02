@@ -20,3 +20,45 @@ Total - 16,860
 Kids (0-19) - 1164 records
 0-14 - 398 records [254 passengers, 120 pedestrians(injury either fatal or major)]
 There is a school in every neighbourhood.
+
+#Clustering Notes 
+Cluster-2 (1227 accidents)
+Mode = MANOEUVER	DRIVACT	DRIVCOND	TRAFFCTL	SPEEDING	ALCOHOL	REDLIGHT	AG_DRIV
+     	Going Ahead	Driving Properly	Normal	No Control	<Null>	<Null>	<Null>	<Null>
+
+- 50% of accidents were pedestrian collisions(624) due to crossing at mid-blocks(390) or intersection(226) at NO-TRAFFIC CONTROL
+Maximum accidents at yonge street, dundas, BATHURST
+so basically pedestrians at fault. 
+
+Cluster - 0 (750 accidents)
+Mode = MANOEUVER	DRIVACT	DRIVCOND	TRAFFCTL	SPEEDING	ALCOHOL	REDLIGHT	AG_DRIV
+       Going Ahead	Driving Properly	Normal	Traffic Signal	<Null>	<Null>	<Null>	<Null>
+- AGAIN 50% of accidents were pedestrian collisions(360) due to Crossing without right of way (204) 
+other impact type were cyclist collisions & turning movement 
+
+Cluster - 3 (559)
+Mode Cluster. MANOEUVER	      DRIVACT	                     DRIVCOND.    	TRAFFCTL	SPEEDING	ALCOHOL	REDLIGHT	AG_DRIV
+              Turning Left	Failed to Yield Right of Way	Inattentive	Traffic Signal	<Null>	<Null>	<Null>	Yes
+- 60% are pedestrain collisions caused by Drivers fault- iattentivness & failing to give ROW
+
+Cluster - 9 (269) & Cluster -3 conditions are same except fot DRIVER CONDITION. In cluster - 9, condition is normal while in cluster 3 inattentiveness
+
+Cluster - 1 (275)
+Mode MANOEUVER	DRIVACT	DRIVCOND	TRAFFCTL	SPEEDING	ALCOHOL	REDLIGHT	AG_DRIV
+    	Going Ahead	Disobeyed Traffic Control	Normal	Traffic Signal	<Null>	<Null>	Yes	Yes
+  
+- Majority of impactype were 'Angle' followed by turning movement & pedestrian collision. Drivers at fault, 'DISOBEYED TRAFFIC CONTROL'. While most of drivers were at normal condition some were under influence.
+
+Cluster - 5 (235)
+Mode	MANOEUVER	DRIVACT	DRIVCOND	TRAFFCTL	SPEEDING	ALCOHOL	REDLIGHT	AG_DRIV
+      	Going Ahead	Speed too Fast For Condition	Normal	No Control	Yes	<Null>	<Null>	Yes
+ 60% at mid-block, caused by speeding, collsions with other vehicles. Driver condition were normal for majority followed by inattentiveness. 
+ So major fault is SPEED
+ 
+ Cluster - 6 Improper turn made by driver due to inattentiveness. Pedestrains and cyclist were impacted. 
+ 
+ 
+ 
+ 
+ 
+
