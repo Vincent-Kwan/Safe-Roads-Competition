@@ -87,3 +87,10 @@ def seasons(month):
         return 'Fall'
     if month in ('December', 'January', 'February'):
         return 'Winter'
+
+def pedtypec(type):
+    if type in ('Vehicle turns right while ped crosses without ROW at Inter.', 'ehicle turns left while ped crosses without ROW at Inter.'):
+        'Vehicle turns while ped crosses without ROW at Inter.'
+    if type in ('Vehicle turns right while ped crosses with ROW at Inter.', 'Vehicle turns left while ped crosses with ROW at Inter.'):
+        'Vehicle turns while ped crosses with ROW at Inter.'
+    return type

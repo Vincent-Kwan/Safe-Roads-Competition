@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="TRAFFCTL_Traffic Signal <= 0.5\nsquared_error = 3.89\nsamples = 564\nvalue = 2.874", fillcolor="#fbeadd"] ;
+1 [label="DRIVACT_Other <= 0.5\nsquared_error = 2.253\nsamples = 235\nvalue = 2.123", fillcolor="#fffdfb"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="squared_error = 1.875\nsamples = 209\nvalue = 2.029", fillcolor="#ffffff"] ;
+1 -> 2 ;
+3 [label="squared_error = 4.641\nsamples = 26\nvalue = 2.885", fillcolor="#fbe9dd"] ;
+1 -> 3 ;
+4 [label="AvgAcceleration <= 0.5\nsquared_error = 4.37\nsamples = 329\nvalue = 3.41", fillcolor="#f8dcc8"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+5 [label="squared_error = 2.425\nsamples = 200\nvalue = 3.005", fillcolor="#fae6d8"] ;
+4 -> 5 ;
+6 [label="VISIBILITY_Rain <= 0.5\nsquared_error = 6.735\nsamples = 129\nvalue = 4.039", fillcolor="#f4ccaf"] ;
+4 -> 6 ;
+7 [label="LIGHT_Dark <= 0.5\nsquared_error = 6.067\nsamples = 113\nvalue = 3.743", fillcolor="#f6d4bb"] ;
+6 -> 7 ;
+8 [label="DRIVCOND_Ability Impaired (Drugs/Alcohol) <= 0.5\nsquared_error = 6.294\nsamples = 95\nvalue = 4.021", fillcolor="#f5cdb0"] ;
+7 -> 8 ;
+9 [label="DRIVCOND_Unknown <= 0.5\nsquared_error = 6.032\nsamples = 91\nvalue = 3.89", fillcolor="#f5d0b5"] ;
+8 -> 9 ;
+10 [label="squared_error = 6.109\nsamples = 74\nvalue = 4.162", fillcolor="#f4c9aa"] ;
+9 -> 10 ;
+11 [label="squared_error = 3.972\nsamples = 17\nvalue = 2.706", fillcolor="#fbeee4"] ;
+9 -> 11 ;
+12 [label="squared_error = 3.0\nsamples = 4\nvalue = 7.0", fillcolor="#e58139"] ;
+8 -> 12 ;
+13 [label="squared_error = 2.312\nsamples = 18\nvalue = 2.278", fillcolor="#fef9f5"] ;
+7 -> 13 ;
+14 [label="squared_error = 6.484\nsamples = 16\nvalue = 6.125", fillcolor="#ea975c"] ;
+6 -> 14 ;
+}
